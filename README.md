@@ -1,5 +1,6 @@
 # AndroidLearningResource
 android学习资源，主要收集一些较好的学习网址
+##开发资源##
 
 **在线查看Android源代码，尤其适合没下载源码以及需要查看特定版本实现**
 
@@ -23,4 +24,9 @@ android学习资源，主要收集一些较好的学习网址
 
 [Home | CodePath Android Cliffnotes](http://guides.codepath.com/android)
 
+##测试资源##
+
+**新一代的、专为移动测试而生的缺陷发现及管理工具BugTags**
+
+[https://bugtags.com/#rd](https://bugtags.com/#rd)
 
