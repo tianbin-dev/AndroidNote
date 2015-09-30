@@ -24,9 +24,52 @@ android学习资源，主要收集一些较好的学习网址
 
 [Home | CodePath Android Cliffnotes](http://guides.codepath.com/android)
 
+**Android best practice**
+
+[英文版](https://github.com/futurice/android-best-practices)
+
+[中文版](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+
+**GitHub上的各大开源库的收录和分析**
+
+[Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
+
+
+##界面设计资源##
+
+**处理图片及一些常用图标**
+
+[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
+
+
+##服务端开发资源##
+
+**Parse**
+
+[Build your perfect app on any platform.](https://parse.com/)
+
+**LeanCloud**
+
+[Build better apps, faster.](https://leancloud.cn/)
+
+**Material Design**
+
+[Material Design 中文版](http://design.1sters.com/)
+
 ##测试资源##
 
 **新一代的、专为移动测试而生的缺陷发现及管理工具BugTags**
 
 [https://bugtags.com/#rd](https://bugtags.com/#rd)
+
+**崩溃统计**
+
+[BugHD — 实时监控APP的崩溃分析工具](http://bughd.com/) 
+ 
+
+##优秀博客资源##
+
+**Trinea**
+
+[微信codek2, Focus on Android, Java, Open Source, Performance Optimization](http://www.trinea.cn/)
 
