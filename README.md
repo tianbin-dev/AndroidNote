@@ -1,7 +1,15 @@
 # AndroidLearningResource
 android学习资源，主要收集一些较好的学习网址
 
-##开发资源##
+* [移动端开发](#1)
+* [界面设计](#2)
+* [服务端开发](#3)
+* [性能优化](#4)
+* [测试资源](#5)
+* [优秀博客](#6)
+
+
+##<p id="1">移动端开发</p>##
 
 **在线查看Android源代码，尤其适合没下载源码以及需要查看特定版本实现**
 
@@ -36,14 +44,14 @@ android学习资源，主要收集一些较好的学习网址
 [Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
 
 
-##界面设计资源##
+##<p id="2">界面设计</p>##
 
 **处理图片及一些常用图标**
 
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
 
-##服务端开发资源##
+##<p id="3">服务端开发</p>##
 
 **Parse**
 
@@ -57,18 +65,7 @@ android学习资源，主要收集一些较好的学习网址
 
 [Material Design 中文版](http://design.1sters.com/)
 
-##测试资源##
-
-**新一代的、专为移动测试而生的缺陷发现及管理工具BugTags**
-
-[https://bugtags.com/#rd](https://bugtags.com/#rd)
-
-**崩溃统计**
-
-[BugHD — 实时监控APP的崩溃分析工具](http://bughd.com/) 
- 
-
-##性能优化##
+##<p id="4">性能优化</p>##
 
 **PMD（需要翻墙）**
 
@@ -84,8 +81,19 @@ android学习资源，主要收集一些较好的学习网址
 
 [Android Lint is a new tool introduced in ADT 16 (and Tools 16) which scans Android project sources for potential bugs.](http://tools.android.com/tips/lint)
 
+ 
 
-##优秀博客资源##
+##<p id="5">测试资源</p>##
+
+**新一代的、专为移动测试而生的缺陷发现及管理工具BugTags**
+
+[https://bugtags.com/#rd](https://bugtags.com/#rd)
+
+**崩溃统计**
+
+[BugHD — 实时监控APP的崩溃分析工具](http://bughd.com/) 
+
+##<p id="6">优秀博客资源</p>##
 
 **Trinea**
 
