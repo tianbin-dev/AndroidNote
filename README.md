@@ -43,6 +43,9 @@ android学习资源，主要收集一些较好的学习网址
 
 [Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
 
+**githot**
+
+[GitHot is an Android App that will help you find the world most popular project and person .](https://github.com/andyiac/githot)
 
 ##<p id="2">界面设计</p>##
 
@@ -50,6 +53,9 @@ android学习资源，主要收集一些较好的学习网址
 
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
+**AChartEngine**
+
+[This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.](http://achartengine.org/)
 
 ##<p id="3">服务端开发</p>##
 
@@ -99,3 +105,6 @@ android学习资源，主要收集一些较好的学习网址
 
 [微信codek2, Focus on Android, Java, Open Source, Performance Optimization](http://www.trinea.cn/)
 
+**技术小黑屋**
+
+[http://droidyue.com/](http://droidyue.com/)
