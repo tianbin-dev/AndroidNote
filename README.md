@@ -7,6 +7,8 @@ android学习资源，主要收集一些较好的学习网址
 * [性能优化](#4)
 * [测试资源](#5)
 * [优秀博客](#6)
+* [开发工具](#7)
+* [站点资源](#8)
 
 
 ##<p id="1">移动端开发</p>##
@@ -108,3 +110,51 @@ android学习资源，主要收集一些较好的学习网址
 **技术小黑屋**
 
 [http://droidyue.com/](http://droidyue.com/)
+
+**黄峰达**
+
+1991年出生于闽南，毕业于西安文理学院(电子信息工程专业)，目前就职于ThoughtWorks，前端、后台、SEO、硬件。
+
+博客地址：[https://www.phodal.com/](https://www.phodal.com/)
+
+
+##<p id="7"><p id="6">开发工具</p>##
+
+**Android Studio使用技巧**
+
+[倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+
+
+##<p id="8"><p id="6">站点资源</p>##
+
+**稀土**
+
+[挖掘最优质的互联网技术](http://zhuanlan.zhihu.com/xitucircle/20244605)
+
+**vogella**
+
+[The vogella company provides premium Eclipse, Android and Git training and development support](http://www.vogella.com/tutorials/android.html)
+
+**Android Niceties**
+
+[A collection of screenshots encompassing some of the most beautiful looking Android apps](http://androidniceties.tumblr.com/)
+
+**androidpatterns**
+
+[This is androidpatterns.com, a set of interaction patterns that can help you design Android apps. An interaction pattern is a short hand summary of a design solution that has proven to work more than once. Please be inspired: use them as a guide, not as a law.](http://unitid.nl/androidpatterns/)
+
+**topcoder**
+
+[点击打开](https://www.topcoder.com/)
+
+**Android Programming Tutorials**
+
+[Developing Mobile Apps in Java](http://www.coreservlets.com/android-tutorial/)
+
+**Android Programming for Beginners**
+
+[点击打开](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)
+
+**EDUmobile.ORG**
+
+[EDUmobile.ORG - Mobile Apps Development & Tutorials](http://www.edumobile.org/)
