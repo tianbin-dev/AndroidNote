@@ -9,6 +9,7 @@ android学习资源，主要收集一些较好的学习网址
 * [优秀博客](#6)
 * [开发工具](#7)
 * [站点资源](#8)
+* [技术干货](#9)
 
 
 ##<p id="1">移动端开发</p>##
@@ -89,6 +90,9 @@ android学习资源，主要收集一些较好的学习网址
 
 [Android Lint is a new tool introduced in ADT 16 (and Tools 16) which scans Android project sources for potential bugs.](http://tools.android.com/tips/lint)
 
+**Android GC 那点事**
+
+[点击打开](http://gold.xitu.io/entry/5625144060b2b199f769ef74/view)
  
 
 ##<p id="5">测试资源</p>##
@@ -118,14 +122,14 @@ android学习资源，主要收集一些较好的学习网址
 博客地址：[https://www.phodal.com/](https://www.phodal.com/)
 
 
-##<p id="7"><p id="6">开发工具</p>##
+##<p id="7">开发工具</p>##
 
 **Android Studio使用技巧**
 
 [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 
 
-##<p id="8"><p id="6">站点资源</p>##
+##<p id="8">站点资源</p>##
 
 **稀土**
 
@@ -166,3 +170,10 @@ android学习资源，主要收集一些较好的学习网址
 **Android学习之路**
 
 [一路走来很不容易，刚好知乎上被人邀请回答如何自学android编程， 就借这个机会在知乎上记录一路走来的历程，很励志，希望能给那些正在或准备走编程行业的人一些正能量，内容有点长，感兴趣的可以当做励志小说阅读吧。](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+
+##<p id="9">技术干货</p>##
+
+**每一位Android开发者应该知道的Android体系架构和开发库**
+
+[点击查看](http://android.jobbole.com/60202/)
