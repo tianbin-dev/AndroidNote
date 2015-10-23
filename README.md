@@ -60,6 +60,26 @@ android学习资源，主要收集一些较好的学习网址
 
 [This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.](http://achartengine.org/)
 
+**icon在线制作**
+
+[点击进入](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=607d8b%2C0&crop=0&backgroundShape=square&backColor=ffffff%2C100&effects=none)
+
+**ColorHunt-色彩搭配**
+
+[ColorHunt-色彩搭配](http://www.colorhunt.co/)
+
+**新奇-Get quickly inspiration!**
+
+[点击进入](http://www.calltoidea.com/)
+
+**Dribbble，养成一双发现并懂得美的眼睛**
+
+[点击进入](https://dribbble.com/designers)
+
+**Sketch，最佳原型制作工具**
+
+[点击进入](http://www.sketchapp.com/)
+
 ##<p id="3">服务端开发</p>##
 
 **Parse**
@@ -128,6 +148,13 @@ android学习资源，主要收集一些较好的学习网址
 
 [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 
+**fir.im**
+
+[移动应用分发](http://fir.im/)
+
+****
+
+[]()
 
 ##<p id="8">站点资源</p>##
 
