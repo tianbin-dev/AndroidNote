@@ -8,3 +8,6 @@
 **githot**
 
 [GitHot is an Android App that will help you find the world most popular project and person .](https://github.com/andyiac/githot)
+
+**Android sample源码(需要翻墙)**
+[点击进入](https://android.googlesource.com/platform/development/+/master/samples)

@@ -33,3 +33,6 @@
 **Android学习之路**
 
 [一路走来很不容易，刚好知乎上被人邀请回答如何自学android编程， 就借这个机会在知乎上记录一路走来的历程，很励志，希望能给那些正在或准备走编程行业的人一些正能量，内容有点长，感兴趣的可以当做励志小说阅读吧。](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+**Android基础到项目实战-高薪入职课**
+[点击进入](http://ke.qq.com/user/tasks/index.html?cid=100711#tid=100104455&fr=2)
