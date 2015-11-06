@@ -1,5 +1,7 @@
 ##架构设计
 
+**Android Basic Project Architecture for MVP**
+[点击进入](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
 
 **Android best practice(安卓开发最佳实践)**
 
