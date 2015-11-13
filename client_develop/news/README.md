@@ -16,3 +16,7 @@
 **美团技术团队技术分享**
 
 [点击打开](http://tech.meituan.com/)
+
+**githot**
+
+[GitHot is an Android App that will help you find the world most popular project and person .](https://github.com/andyiac/githot)
