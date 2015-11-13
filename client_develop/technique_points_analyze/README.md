@@ -18,3 +18,6 @@
 
 **如何正确地写出单例模式**
 [点击进入](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+
+**Android打包的那些事**
+[点击进入](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
