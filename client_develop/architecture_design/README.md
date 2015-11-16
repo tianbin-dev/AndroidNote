@@ -1,5 +1,9 @@
 ##架构设计
 
+
+1. [对Android开发有用的技术栈（一）架构篇](http://android.jobbole.com/82051/)
+
+
 **Android Basic Project Architecture for MVP**
 [点击进入](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
 
