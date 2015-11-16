@@ -3,14 +3,14 @@
 ###Android 个性化控件(View)篇
 
 
-####ProgressBar
+####一、ProgressBar
 
 **Material ProgressBar**
 [点击进入](http://www.jianshu.com/p/9d329bf2cc44)
 
 
 ####Material Design
-**Android Design Support Library完整介绍**
+**Android Design Support Library完整介绍**
 
 [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
 
