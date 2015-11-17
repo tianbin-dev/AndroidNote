@@ -34,51 +34,30 @@
 [Bmob即时聊天开发组件](https://github.com/bmob/bmob-android-im-sdk)
 
 **界面效果**
-![](image/reg.png)
 
-![](image/reg.png)
+![](image/reg.png)![](image/reg.png)
 
-![](image/login.png)
+![](image/login.png)![](image/session.png)
 
-![](image/session.png)
+![](image/session1.png)![](image/chat.png)
 
-![](image/session1.png)
- 
-![](image/chat.png)![](image/chat1.png)
+![](image/chat1.png)![](image/photo.png)
 
-![](image/photo.png)![](image/map.png)
+![](image/map.png)![](image/voice1.png)
 
-![](image/voice1.png)
+![](image/voice2.png)![](image/voice3.png)
 
-![](image/voice2.png)
+![](image/voice4.png)![](image/contact.png)
 
-![](image/voice3.png)
+![](image/contact1.png)![](image/block.png)
 
-![](image/voice4.png)
+![](image/block1.png)![](image/search.png)
 
-![](image/contact.png)
+![](image/newfriend.png)![](image/near.png)
 
-![](image/contact1.png)
+![](image/detail.png)![](image/detail1.png)
 
-![](image/block.png)
-
-![](image/block1.png)
-
-![](image/search.png)
-
-![](image/newfriend.png)
-
-![](image/near.png)
-
-![](image/detail.png)
-
-![](image/detail1.png)
-
-![](image/detail2.png)
-
-![](image/setting.png)
-
-
+![](image/detail2.png)![](image/setting.png)
 
 
 ###Android 个人开源项目
