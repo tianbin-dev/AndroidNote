@@ -34,32 +34,19 @@
 [Bmob即时聊天开发组件](https://github.com/bmob/bmob-android-im-sdk)
 
 **界面效果**
-
-1. 注册页面
+![](image/reg.png)
 
 ![](image/reg.png)
 
-2. 登录页面!
-
-[](image/login.png)
-
-3. 会话页面
+![](image/login.png)
 
 ![](image/session.png)
 
-![](image/session1.png) 
+![](image/session1.png)
+ 
+![](image/chat.png)![](image/chat1.png)
 
-4. 聊天页面
-
-![](image/chat.png)
-
-![](image/chat1.png)
-
-![](image/photo.png)
-
-![](image/map.png)
-
-5. 语音聊天页面
+![](image/photo.png)![](image/map.png)
 
 ![](image/voice1.png)
 
@@ -69,39 +56,25 @@
 
 ![](image/voice4.png)
 
-6. 通讯录页面
-
 ![](image/contact.png)
 
 ![](image/contact1.png)
-
-7. 黑名单页面
 
 ![](image/block.png)
 
 ![](image/block1.png)
 
-8. 查找好友页面
-
 ![](image/search.png)
-
-9. 新朋友页面
 
 ![](image/newfriend.png)
 
-10. 附近的人页面
-
 ![](image/near.png)
-
-11. 个人资料页面
 
 ![](image/detail.png)
 
 ![](image/detail1.png)
 
 ![](image/detail2.png)
-
-12. 设置页面
 
 ![](image/setting.png)
 
