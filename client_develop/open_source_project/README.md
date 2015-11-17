@@ -20,6 +20,16 @@
 
 ![](https://s3-us-west-2.amazonaws.com/helptestbucket/yahoo-news-demo.gif)
 
+
+###Android 个性化组件(Component)篇
+
+####一、FlycoTabLayout
+1. [An Android TabLayout Lib has two kinds of TabLayout at present.](https://github.com/H07000223/FlycoTabLayout)
+
+![](https://github.com/H07000223/FlycoTabLayout/blob/master/preview_1.gif)
+
+![](https://github.com/H07000223/FlycoTabLayout/blob/master/preview_2.gif)
+
 ###Android 个人开源项目
 
 1. [An application about movies with material design](https://github.com/saulmm/Material-Movies)
