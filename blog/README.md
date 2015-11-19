@@ -14,3 +14,7 @@
 
 博客地址：[https://www.phodal.com/](https://www.phodal.com/)
 
+**Android 中文API**
+
+[传送门](http://www.cnblogs.com/over140/category/277077.html)
+
