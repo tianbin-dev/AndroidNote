@@ -8,3 +8,5 @@
 [基础知识篇](http://bugly.qq.com/blog/?p=832)
 
 [排查方法篇](http://bugly.qq.com/blog/?p=872#rd)
+
+[常见原因与用户实践](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=125#rd)

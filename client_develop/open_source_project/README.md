@@ -70,4 +70,14 @@
 
 [Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
 
+**AndroidOpenSourceProject**
 
+[Android Open Source Project dedicated to collect high-quality Android open source project.](http://www.androidopensourceproject.com/)
+
+**AndroidLibs**
+
+[收集Android开发中优秀的开源组件库](https://github.com/XXApple/AndroidLibs)
+
+**awesome-android**
+
+[android libs from github](https://github.com/snowdream/awesome-android)

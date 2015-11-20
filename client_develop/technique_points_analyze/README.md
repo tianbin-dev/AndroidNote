@@ -7,3 +7,4 @@
 5. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
 6. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 7. [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
+8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
