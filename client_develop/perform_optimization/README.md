@@ -1,9 +1,9 @@
 ##性能优化
 
-**加速你的Android应用**
-[点击进入](http://www.devtf.cn/?p=1097)
-
-**内存泄露从入门到精通三部曲**
+1. [加速你的Android应用](http://www.devtf.cn/?p=1097)
+2. [Andriod性能优化之列表卡顿——以“简书”APP为例](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1121/3709.html)
+3. 内存泄露从入门到精通三部曲
+	
 
 [基础知识篇](http://bugly.qq.com/blog/?p=832)
 
