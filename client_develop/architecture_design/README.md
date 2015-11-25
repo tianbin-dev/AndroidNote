@@ -1,14 +1,16 @@
 ##架构设计
 
 
-1. [对Android开发有用的技术栈（一）架构篇](http://android.jobbole.com/82051/)
-
+1. 对Android开发有用的技术栈
+	
+	>[架构篇](http://android.jobbole.com/82051/)
 
 2. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
 
 3. Android best practice(安卓开发最佳实践)
-[英文版](https://github.com/futurice/android-best-practices)
-[中文版](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+	>[英文版](https://github.com/futurice/android-best-practices)
+
+	>[中文版](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 
 
 4. [Android Niceties](http://androidniceties.tumblr.com/)
