@@ -2,7 +2,13 @@
 
 1. Android Studio使用技巧
 
-	>[倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+	>1. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+	>
+	>2. [Android Studio Tips Of the Day](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
+	>
+	>3. [Android Studio Tips Of the Day(译)](http://blog.csdn.net/growth58/article/details/46729803)
+	>
+	>4. [Android Studio 系列教程](http://stormzhang.com/posts.html#AndroidStudio)
 
 2. fir.im
 

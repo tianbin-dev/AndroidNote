@@ -22,7 +22,7 @@
 
 10. [AndroidCat热门推荐](http://androidcat.com/)
 
-11. [稀土](http://zhuanlan.zhihu.com/xitucircle/20244605)
+11. [稀土](http://gold.xitu.io/#/)
 
 11. [Android Weekly](http://androidweekly.net/)
 

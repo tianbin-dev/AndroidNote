@@ -24,6 +24,20 @@
 
 7. [App工程结构搭建：几种常见Android代码架构分析](http://www.uml.org.cn/mobiledev/201310211.asp)
 
+8. 移动APP整体策划
 
+	> [策划001-移动App项目研发流程及版本规划](http://www.jianshu.com/p/dfbdfb54f425)
+	>  
+	> [策划002-App启动页的策划意义](http://www.jianshu.com/p/4bbc32e6a98b)
+	>  
+	> [策划003-App启动页的策划方案](http://www.jianshu.com/p/b4a143061837)
+	>  
+	> [策划004-App注册登录系统策划方案](http://www.jianshu.com/p/022176795559)
+	>  
+	> [策划005-App升级系统策划方案](http://www.jianshu.com/p/058800a511de)
+	>  
+	> [策划006-App界面设计风格](http://www.jianshu.com/p/f69503531704)
+	>  
+	> [策划007-App界面交互设计规范](http://www.jianshu.com/p/8c51090e3a39) 
 
 
