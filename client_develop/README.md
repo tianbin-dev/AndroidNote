@@ -1,6 +1,5 @@
 ##移动端开发##
 
-2. [学习资料](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/learning_resource)
 3. [开源项目](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/open_source_project)
 4. [性能优化](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/perform_optimization)
 5. [架构设计](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/architecture_design)
