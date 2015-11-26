@@ -1,7 +1,7 @@
 # AndroidLearningResource
 android学习资源，主要收集一些较好的学习网址
 
-* [移动端开发](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop)
+* 移动端开发
 
 	>1. [开源项目](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/open_source_project)
 	>2. [性能优化](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/client_develop/perform_optimization)
