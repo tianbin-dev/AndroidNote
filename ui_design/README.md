@@ -1,30 +1,24 @@
 ##界面设计
 
-**处理图片及一些常用图标**
+1. [Android Design Support Library完整介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
 
-[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
+2. 处理图片及一些常用图标
 
-**AChartEngine**
+	>[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
-[This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.](http://achartengine.org/)
+3. AChartEngine
 
-**icon在线制作**
+	>[This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.](http://achartengine.org/)
 
-[点击进入](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=607d8b%2C0&crop=0&backgroundShape=square&backColor=ffffff%2C100&effects=none)
+4. [icon在线制作](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=607d8b%2C0&crop=0&backgroundShape=square&backColor=ffffff%2C100&effects=none)
 
-**ColorHunt-色彩搭配**
+5. [ColorHunt-色彩搭配](http://www.colorhunt.co/)
 
-[ColorHunt-色彩搭配](http://www.colorhunt.co/)
+6. [新奇-Get quickly inspiration!](http://www.calltoidea.com/)
 
-**新奇-Get quickly inspiration!**
+7. [Dribbble，养成一双发现并懂得美的眼睛](https://dribbble.com/designers)
 
-[点击进入](http://www.calltoidea.com/)
+8. [Sketch，最佳原型制作工具](http://www.sketchapp.com/)
 
-**Dribbble，养成一双发现并懂得美的眼睛**
-
-[点击进入](https://dribbble.com/designers)
-
-**Sketch，最佳原型制作工具**
-
-[点击进入](http://www.sketchapp.com/)
+9. [Material Design 中文版](http://design.1sters.com/)
 

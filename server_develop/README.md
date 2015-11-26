@@ -1,14 +1,12 @@
 ##服务端开发
 
-**Parse**
+1. Parse
 
-[Build your perfect app on any platform.](https://parse.com/)
+	>[Build your perfect app on any platform.](https://parse.com/)
 
-**LeanCloud**
+2. LeanCloud
 
-[Build better apps, faster.](https://leancloud.cn/)
+	>[Build better apps, faster.](https://leancloud.cn/)
 
-**Material Design**
 
-[Material Design 中文版](http://design.1sters.com/)
 
