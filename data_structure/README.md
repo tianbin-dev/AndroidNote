@@ -1,6 +1,7 @@
 ##数据结构&算法
 
 1. 浅谈算法和数据结构
+	
 	>[栈和队列](http://blog.jobbole.com/79267/)
 	>
 	>[基本排序算法](http://blog.jobbole.com/79288/)
