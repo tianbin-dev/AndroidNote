@@ -6,11 +6,13 @@
 ####一、ProgressBar
 
 1. [Material ProgressBar](http://www.jianshu.com/p/9d329bf2cc44)
+
 	>![效果图](image/MaterialProgressBar.gif)
 
 ####二、Animations 
 
 1. [Demo of the onboarding animations of Yahoo News App](https://github.com/rahulrj/YahooNewsOnboarding)
+	
 	>![](https://s3-us-west-2.amazonaws.com/helptestbucket/yahoo-news-demo.gif)
 
 
