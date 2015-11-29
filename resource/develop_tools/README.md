@@ -9,6 +9,8 @@
 	>3. [Android Studio Tips Of the Day(译)](http://blog.csdn.net/growth58/article/details/46729803)
 	>
 	>4. [Android Studio 系列教程](http://stormzhang.com/posts.html#AndroidStudio)
+	>
+	>5. [快速提高Android开发效率的Web工具](http://droidyue.com/blog/2014/08/03/great-web-tools-for-android-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 2. Linux
 	

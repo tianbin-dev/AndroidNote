@@ -30,7 +30,16 @@
 
 13. [国内版Android Weekly](http://www.androidweekly.cn/)
 
-15. [GitHot](https://github.com/andyiac/githot)
+14. [GitHot](https://github.com/andyiac/githot)
 	>an Android App that will help you find the world most popular project and person.
 
+15. [极客头条 —— 最新最热 - 极客头条 - CSDN.NET](http://geek.csdn.net/)
+
+16. [开发者头条 —— 开发者的首选阅读分享平台](http://toutiao.io/)
+
+17. [Startup News —— 创业感悟 网站架构 性能优化 技术评论](http://news.dbanotes.net/)
+
+18. [头条-伯乐在线 —— 伯乐头条是一个专注于IT互联网的聚合分享站点，内容来自伯乐在线社区和读者的投递分享，目前有数百万的读者群基础](http://top.jobbole.com/)
+
+19. [SegmentFault —— 专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务](http://segmentfault.com/)
  

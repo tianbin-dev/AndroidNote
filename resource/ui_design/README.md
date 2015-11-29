@@ -1,6 +1,10 @@
 ##界面设计
 
-1. [Android Design Support Library完整介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
+1. Material Design
+
+>[Android Design Support Library完整介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
+>
+>[Material Palette：Material Design专用在线配色工具](http://hao.jobbole.com/material-palette/?utm_source=hao.jobbole.com&utm_medium=relatedResources)
 
 2. 处理图片及一些常用图标
 
@@ -22,3 +26,4 @@
 
 9. [Material Design 中文版](http://design.1sters.com/)
 
+10. [PxCook：一款图片标注、切图工具](http://hao.jobbole.com/pxcook/)
