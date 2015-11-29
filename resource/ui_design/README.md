@@ -2,9 +2,9 @@
 
 1. Material Design
 
->[Android Design Support Library完整介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
->
->[Material Palette：Material Design专用在线配色工具](http://hao.jobbole.com/material-palette/?utm_source=hao.jobbole.com&utm_medium=relatedResources)
+	>[Android Design Support Library完整介绍](http://inthecheesefactory.com/	blog/android-design-support-library-codelab)
+	>
+	>[Material Palette：Material Design专用在线配色工具](http://	hao.jobbole.com/material-palette/?utm_source=hao.jobbole.com&utm_medium=relatedResources)
 
 2. 处理图片及一些常用图标
 

@@ -1,5 +1,32 @@
-##优秀博客资源
+##分享站点
 
+###知名站点
+---
+1. [AndroidCat热门推荐](http://androidcat.com/)
+
+2. [稀土](http://gold.xitu.io/#/)
+
+3. [Android Weekly](http://androidweekly.net/)
+
+4. [Trending Java repositories on GitHub today · GitHub](https://github.com/trending?l=java)
+
+5. [国内版Android Weekly](http://www.androidweekly.cn/)
+
+6. [GitHot](https://github.com/andyiac/githot)
+	>an Android App that will help you find the world most popular project and person.
+
+7. [极客头条 —— 最新最热 - 极客头条 - CSDN.NET](http://geek.csdn.net/)
+
+8. [开发者头条 —— 开发者的首选阅读分享平台](http://toutiao.io/)
+
+9. [Startup News —— 创业感悟 网站架构 性能优化 技术评论](http://news.dbanotes.net/)
+
+10. [头条-伯乐在线 —— 伯乐头条是一个专注于IT互联网的聚合分享站点，内容来自伯乐在线社区和读者的投递分享，目前有数百万的读者群基础](http://top.jobbole.com/)
+
+11. [SegmentFault —— 专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务](http://segmentfault.com/)
+
+###优秀博客
+---
 1. [Trinea](http://www.trinea.cn/)
   	 
 	>微信codek2, Focus on Android, Java, Open Source, Performance Optimization
@@ -20,26 +47,4 @@
 
 9. [腾讯 AlloyTeam](http://www.alloyteam.com/)
 
-10. [AndroidCat热门推荐](http://androidcat.com/)
-
-11. [稀土](http://gold.xitu.io/#/)
-
-11. [Android Weekly](http://androidweekly.net/)
-
-12. [Trending Java repositories on GitHub today · GitHub](https://github.com/trending?l=java)
-
-13. [国内版Android Weekly](http://www.androidweekly.cn/)
-
-14. [GitHot](https://github.com/andyiac/githot)
-	>an Android App that will help you find the world most popular project and person.
-
-15. [极客头条 —— 最新最热 - 极客头条 - CSDN.NET](http://geek.csdn.net/)
-
-16. [开发者头条 —— 开发者的首选阅读分享平台](http://toutiao.io/)
-
-17. [Startup News —— 创业感悟 网站架构 性能优化 技术评论](http://news.dbanotes.net/)
-
-18. [头条-伯乐在线 —— 伯乐头条是一个专注于IT互联网的聚合分享站点，内容来自伯乐在线社区和读者的投递分享，目前有数百万的读者群基础](http://top.jobbole.com/)
-
-19. [SegmentFault —— 专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务](http://segmentfault.com/)
  
