@@ -8,3 +8,5 @@
 6. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 7. [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
+9. [Android实战之你应该使用哪个网络库](http://segmentfault.com/a/1190000003965158)
+10. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)

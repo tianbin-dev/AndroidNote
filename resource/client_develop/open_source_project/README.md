@@ -27,6 +27,8 @@
 	
 	>![](https://github.com/wingjay/BlurImageView/blob/master/ReadMe/blurImageView_nm.gif)
 
+3. [Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)
+
 ####三、CalendarView
 
 1. [一款在日历和议事日程间添加简易导航效果的 Android 控件](https://github.com/Tibolte/AgendaCalendarView)
@@ -38,6 +40,10 @@
 1. [一个增强冷启动体验的库](https://github.com/DreaminginCodeZH/MaterialColdStart)
 
 	>![Material cold start](image/blank_cold_start.gif)
+
+2. [一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity](https://github.com/hongyangAndroid/AndroidChangeSkin)
+
+	>![Material cold start](image/changeskin_sc.gif)
 
 ####五、WheelView
 
@@ -75,30 +81,13 @@
 
 **界面效果**
 
-![](image/reg.png)![](image/reg.png)
+![](image/reg.png)
 
-![](image/login.png)![](image/session.png)
+![](image/login.png)
 
-![](image/session1.png)![](image/chat.png)
+![](image/session1.png)
 
-![](image/chat1.png)![](image/photo.png)
-
-![](image/map.png)![](image/voice1.png)
-
-![](image/voice2.png)![](image/voice3.png)
-
-![](image/voice4.png)![](image/contact.png)
-
-![](image/contact1.png)![](image/block.png)
-
-![](image/block1.png)![](image/search.png)
-
-![](image/newfriend.png)![](image/near.png)
-
-![](image/detail.png)![](image/detail1.png)
-
-![](image/detail2.png)![](image/setting.png)
-
+![](image/chat1.png)
 
 ###Android 个人开源项目
 ---
