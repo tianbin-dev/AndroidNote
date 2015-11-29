@@ -37,7 +37,7 @@
 
 1. [一个增强冷启动体验的库](https://github.com/DreaminginCodeZH/MaterialColdStart)
 
-	>![Material cold start](preview/material_cold_start.gif)
+	>![Material cold start](image/blank_cold_start.gif)
 
 ####五、WheelView
 
