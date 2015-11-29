@@ -7,13 +7,55 @@
 
 1. [Material ProgressBar](http://www.jianshu.com/p/9d329bf2cc44)
 
-	>![效果图](image/MaterialProgressBar.gif)
+	><img src="image/MaterialProgressBar.gif" width="320px"/>
 
 ####二、Animations 
 
 1. [Demo of the onboarding animations of Yahoo News App](https://github.com/rahulrj/YahooNewsOnboarding)
 	
 	>![](https://s3-us-west-2.amazonaws.com/helptestbucket/yahoo-news-demo.gif)
+
+2. [一个提供了很多 Android 动画效果的实例的Demo项目](https://github.com/hitherejoe/animate)
+
+####二、ImageView
+
+1. [一个支持在图片上显示一个徽章的ImageView](https://github.com/yesidlazaro/BadgedImageview)
+
+	>![Alt text](https://github.com/yesidlazaro/BadgedImageview/blob/master/art/demo.png)
+
+2. [一个可以由模糊慢慢渐近显示为清晰图的控件](https://github.com/wingjay/BlurImageView)
+	
+	>![](https://github.com/wingjay/BlurImageView/blob/master/ReadMe/blurImageView_nm.gif)
+
+####三、CalendarView
+
+1. [一款在日历和议事日程间添加简易导航效果的 Android 控件](https://github.com/Tibolte/AgendaCalendarView)
+
+	>![](https://raw.githubusercontent.com/Tibolte/AgendaCalendarView/master/demo.gif)  
+
+####四、Theme
+
+1. [一个增强冷启动体验的库](https://github.com/DreaminginCodeZH/MaterialColdStart)
+
+	>![Material cold start](preview/material_cold_start.gif)
+
+####五、WheelView
+
+1. [一个刻度滚轮控件](https://github.com/lantouzi/WheelView-Android)
+
+	>![Demo](https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg)
+
+####六、Highlight
+
+1. [一个用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
+
+	><img src="image/highlight2.gif" width="320px"/>
+
+####七、PickerView
+
+1. [可实现三级联动的选择器，高仿iOS的滚轮控件](https://github.com/alafighting/CharacterPickerView)
+
+	>![效果图](https://github.com/alafighting/CharacterPickerView/tree/master/Screenshot\Screenshot_2015-11-13-154813.gif)
 
 
 ###Android 个性化组件(Component)篇
@@ -61,7 +103,9 @@
 ###Android 个人开源项目
 ---
 1. [An application about movies with material design](https://github.com/saulmm/Material-Movies)
+
 2. [Material Design设计开发的Android客户端](https://github.com/tb-yangshu/SimplifyReader)
+
 	>一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
 
 ###巨人的肩膀
