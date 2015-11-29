@@ -43,19 +43,19 @@
 
 1. [一个刻度滚轮控件](https://github.com/lantouzi/WheelView-Android)
 
-	>![Demo](https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg)
+	><img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg" width="320px"/>
 
 ####六、Highlight
 
 1. [一个用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
 
-	><img src="image/highlight2.gif" width="320px"/>
+	><img src="image/highlight.gif" width="320px"/>
 
 ####七、PickerView
 
 1. [可实现三级联动的选择器，高仿iOS的滚轮控件](https://github.com/alafighting/CharacterPickerView)
 
-	>![效果图](https://github.com/alafighting/CharacterPickerView/tree/master/Screenshot\Screenshot_2015-11-13-154813.gif)
+	>![效果图](image/Screenshot_2015-11-13-154813.gif)
 
 
 ###Android 个性化组件(Component)篇
