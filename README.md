@@ -8,7 +8,6 @@ android学习资源，主要收集一些较好的学习网址
 	>3. [架构设计](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/client_develop/architecture_design)
 	>4. [源码分析](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/client_develop/source_analyze)
 	>5. [技术点分析](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/client_develop/technique_points_analyze)
-* [服务端开发](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/server_develop)
 * [界面设计](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/ui_design)
 * [测试资源](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/test)
 * [分享站点](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/blog)
