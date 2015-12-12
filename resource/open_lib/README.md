@@ -22,6 +22,10 @@
 	>
 	>[sample](http://ormlite.com/android/examples/)
 
+3. Otto
 
+	>[Github-An event bus by Square](https://github.com/square/otto)
+	>
+	>[Otto事件总线框架的使用](http://android.jobbole.com/82217/)
 
 

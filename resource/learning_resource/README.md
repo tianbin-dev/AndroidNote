@@ -35,3 +35,5 @@
 10. [快速高效学习Java编程在线资源Top 20](http://www.importnew.com/16843.html#rd?sukey=fc78a68049a14bb26a6c517ac88364181fed42bf854cd7b037f385c956cdeffc70a5de04af952dea1a8b032a38dd4ad2)
 
 11. [Android developer portal with tools, libraries, and apps](http://android-arsenal.com/)
+
+12. [Android国外学习资源汇总](http://www.csdn.net/article/2015-12-07/2826408-top-resources-to-learn-android#rd?sukey=fc78a68049a14bb2ec2038f54b652d42cfd8ef2e1a468dc5be6f925ffec3ecfd8bbc01c89c2a711c5098b058ea3378a9)

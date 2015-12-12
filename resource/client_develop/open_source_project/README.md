@@ -63,6 +63,15 @@
 
 	>![效果图](image/Screenshot_2015-11-13-154813.gif)
 
+####八、Material Design
+
+1. [Material Design之CollapsingToolbarLayout使用](http://android.jobbole.com/82193/)
+
+![](image/CollapsingToolbarLayout.gif)
+
+2. [Material Design之CoordinatorLayout+AppBarLayout实现上滑隐藏ToolBar](http://android.jobbole.com/82188/)
+
+![](image/CoordinatorLayout_AppBarLayout.gif)
 
 ###Android 个性化组件(Component)篇
 ---
