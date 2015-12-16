@@ -48,4 +48,15 @@
 9. [腾讯 AlloyTeam](http://www.alloyteam.com/)
 
 10. [bugly网站博客](http://bugly.qq.com/blog/)
+
+11. [Innost的专栏](http://blog.csdn.net/innost?viewmode=contents)
+	>深入理解Android与其他技术，管理，人生百态，团队建设等
+
+12. [老罗的Android之旅](http://blog.csdn.net/luoshengyang?viewmode=contents)
  
+13. [郭霖的专栏](http://blog.csdn.net/guolin_blog)
+	>每当你在感叹，如果有这样一个东西就好了的时候，请注意，其实这是你的机会
+	
+14. [Hongyang](http://blog.csdn.net/lmj623565791?viewmode=list)
+	>生命不息，奋斗不止，万事起于忽微，量变引起质变
+
