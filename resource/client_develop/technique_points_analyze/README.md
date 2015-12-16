@@ -10,3 +10,5 @@
 8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
 9. [Android实战之你应该使用哪个网络库](http://segmentfault.com/a/1190000003965158)
 10. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
+11. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
+12. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
