@@ -24,7 +24,9 @@
 
 7. [App工程结构搭建：几种常见Android代码架构分析](http://www.uml.org.cn/mobiledev/201310211.asp)
 
-8. 移动APP整体策划
+8. [Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+
+9. 移动APP整体策划
 
 	> [策划001-移动App项目研发流程及版本规划](http://www.jianshu.com/p/dfbdfb54f425)
 	>  

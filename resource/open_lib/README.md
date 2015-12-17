@@ -28,4 +28,12 @@
 	>
 	>[Otto事件总线框架的使用](http://android.jobbole.com/82217/)
 
+4. EventBus
+
+	>+ [EventBus源码研读(上)](http://kymjs.com/code/2015/12/12/01/)
+	>+ [EventBus源码研读(中)](http://kymjs.com/code/2015/12/13/01/)
+	>+ [EventBus源码研读(下)](http://kymjs.com/code/2015/12/16/01/)
+
+5. [Android 平台持久化 debug log 的工具类](https://github.com/DozenWang/DLog)
+
 

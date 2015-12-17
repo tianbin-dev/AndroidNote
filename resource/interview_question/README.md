@@ -2,9 +2,11 @@
 
 ##Android常见的问题(前人踩过的坑)
 
-[传送门](https://github.com/leerduo/InterviewQuestion)
+1. [传送门](https://github.com/leerduo/InterviewQuestion)
 
----
+2. [面试时，问哪些问题能试出一个Android应用开发者真正的水平？](http://www.jianshu.com/p/74565bd741ab)
+
+
 ##自我总结
 
 1. Activity启动过程

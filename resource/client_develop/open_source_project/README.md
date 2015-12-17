@@ -9,6 +9,10 @@
 
 	><img src="image/MaterialProgressBar.gif" width="320px"/>
 
+2. [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView/blob/master/README.md)
+
+	><img src="image/sample.gif" alt="sample" title="sample" width="400" height="680" />
+
 ####二、Animations 
 
 1. [Demo of the onboarding animations of Yahoo News App](https://github.com/rahulrj/YahooNewsOnboarding)

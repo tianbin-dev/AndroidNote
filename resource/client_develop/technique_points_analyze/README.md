@@ -12,3 +12,4 @@
 10. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 11. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 12. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
+13. [我眼中的下拉刷新](http://android-ultra-ptr.liaohuqiu.net/cn/)
