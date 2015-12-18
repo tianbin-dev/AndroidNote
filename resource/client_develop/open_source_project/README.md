@@ -13,6 +13,9 @@
 
 	><img src="image/sample.gif" alt="sample" title="sample" width="400" height="680" />
 
+3. [CircleLoadingView](https://github.com/jhw-dev/CircleLoadingView)
+	
+	>![CircleLoadingView-screenshot](https://raw.githubusercontent.com/jhw-dev/CircleLoadingView/master/docs/screenshot.gif)
 ####二、Animations 
 
 1. [Demo of the onboarding animations of Yahoo News App](https://github.com/rahulrj/YahooNewsOnboarding)

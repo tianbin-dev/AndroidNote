@@ -13,3 +13,10 @@
 11. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 12. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 13. [我眼中的下拉刷新](http://android-ultra-ptr.liaohuqiu.net/cn/)
+14. [《Android源码设计模式解析》读书笔记——Android中你应该知道的设计模式](http://blog.csdn.net/zhaokaiqiang1992/article/details/50285021)
+15. [安卓开发的小技巧]
+ 
+	>[http://android.jobbole.com/82206/](http://android.jobbole.com/82206/)
+	>[http://android.jobbole.com/82209/](http://android.jobbole.com/82209/)
+16. [译文：Android中糟糕的AsyncTask](http://droidyue.com/blog/2014/11/08/bad-smell-of-asynctask-in-android/)
+17. [Android 关于GridView那些事](http://blog.csdn.net/lyhhj/article/details/50184965)
