@@ -11,6 +11,9 @@
 	>4. [Android Studio 系列教程](http://stormzhang.com/posts.html#AndroidStudio)
 	>
 	>5. [快速提高Android开发效率的Web工具](http://droidyue.com/blog/2014/08/03/great-web-tools-for-android-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	>
+	>6. [Android Dev Bookmarks](http://adb.rocko.xyz/category/%E5%B7%A5%E5%85%B7-%E8%B5%84%E6%BA%90/)
+
 
 2. Linux
 	
@@ -18,6 +21,8 @@
 
 3. Git
 	>1. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+	>
+	>2. [在线生成 .gitignore 文件](https://www.gitignore.io/)
 
 4. PMD（需要翻墙）
 	>[点击下载Jar包(百度云盘)](http://pan.baidu.com/s/1sjzhmGX)
@@ -35,3 +40,11 @@
 6. Phabricator, an open source, software development platform
 
 	>[Phabricator is a collection of open source web applications that help software companies build better software.](http://phabricator.org/)//phabricator.org/)
+
+7. 自动化构建平台
+ 
+	>[Jenkins](http://jenkins-ci.org/)
+
+8. [为应用添加在线预览](https://appetize.io/)
+
+	>[appetize](https://appetize.io/)

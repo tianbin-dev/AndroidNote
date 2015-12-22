@@ -21,3 +21,5 @@
 	>https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d976466f0ecc0ea94f6ddc75b8e0f1eec512b8d6629613f291cb294714bb3786bf702cfee0f3dd2eb29e&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=NRSZhEJnahPXPQ5sr2tGwORvfLUpNWFyFtWRzUulUaM%3D
 
 	>复制粘贴到浏览器中打开
+
+7. [为你的应用加速 - 安卓优化指南](https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-27/%E4%B8%BA%E4%BD%A0%E7%9A%84%E5%BA%94%E7%94%A8%E5%8A%A0%E9%80%9F%20-%20%E5%AE%89%E5%8D%93%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97.md)

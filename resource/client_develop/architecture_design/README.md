@@ -7,6 +7,8 @@
 
 2. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
 
+3. [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
+
 3. Android best practice(安卓开发最佳实践)
 	>[英文版](https://github.com/futurice/android-best-practices)
 
@@ -24,7 +26,13 @@
 
 7. [App工程结构搭建：几种常见Android代码架构分析](http://www.uml.org.cn/mobiledev/201310211.asp)
 
-8. [Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+8. 如何构建 Android 应用程序架构
+
+	>Android开发者生态圈的发展节奏非常之快，MVP 和 MVVM 也变得越来越受欢迎，那么你需要了解一下优秀的团队（比如 Iván Carballo 和 Ribot 团队）是如何构建 Android 应用程序架构。 
+	>	
+	>[英文版](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.qghebjnfc)
+	>
+	>[中文版](http://www.jianshu.com/p/8ca27934c6e6)
 
 9. 移动APP整体策划
 

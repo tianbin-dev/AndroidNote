@@ -132,3 +132,9 @@
 	>[android libs from github](https://github.com/snowdream/awesome-android)
 
 5. [Code4App](http://a.code4app.com/category)
+
+6. 代码片段
+
+	>[代码片段，代码分享，PHP代码分享，Java代码分享,Ruby代码分享，Python代码分享，HTML代码分享，CSS代码分享，SQL代码分享，JavaScript代码分享](http://www.phpxs.com/code)
+	>
+	>[Java 代码片段分享](http://gold.xitu.io/entry/5674c81300b01b78b5471d3e/view)
