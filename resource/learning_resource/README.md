@@ -37,3 +37,5 @@
 11. [Android developer portal with tools, libraries, and apps](http://android-arsenal.com/)
 
 12. [Android国外学习资源汇总](http://www.csdn.net/article/2015-12-07/2826408-top-resources-to-learn-android#rd?sukey=fc78a68049a14bb2ec2038f54b652d42cfd8ef2e1a468dc5be6f925ffec3ecfd8bbc01c89c2a711c5098b058ea3378a9)
+
+13. [Android开发文档](http://api.apkbus.com/reference/android/media/ExifInterface.html)
