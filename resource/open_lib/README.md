@@ -49,3 +49,9 @@
 	>[https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 	>
 	>[Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
+
+9. Android-Universal-Image-Loader
+
+	>[https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+	>
+	>[Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
