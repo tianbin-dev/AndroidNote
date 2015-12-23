@@ -86,8 +86,9 @@
 ####一、FlycoTabLayout
 1. [An Android TabLayout Lib has two kinds of TabLayout at present.](https://github.com/H07000223/FlycoTabLayout)
 
-	>![](https://github.com/H07000223/FlycoTabLayout/blob/master/preview_1.gif)![](https://github.com/H07000223/FlycoTabLayout/blob/master/preview_2.gif)
-
+	>![](image/preview_1.gif)
+	>![](image/preview_2.gif)
+	>![](image/preview_3.gif)
 
 
 ###Bmob即时聊天开发组件

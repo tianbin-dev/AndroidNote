@@ -51,3 +51,4 @@
 	> [策划007-App界面交互设计规范](http://www.jianshu.com/p/8c51090e3a39) 
 
 
+11. [构建更高质量的应用 – 2015 Playtime 之 Build Better](http://chinagdg.org/2015/12/%E6%9E%84%E5%BB%BA%E6%9B%B4%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8/#rd?sukey=fc78a68049a14bb26c717b0ed20bdc0134d14f32474bf53a54b4e99c122847a4be59ee736367bfb9cfc6c5930d58aa97)

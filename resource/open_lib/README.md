@@ -36,4 +36,16 @@
 
 5. [Android 平台持久化 debug log 的工具类](https://github.com/DozenWang/DLog)
 
+6. RxJava
+ 
+	>[RxJava is a Java VM implementation of ReactiveX (Reactive Extensions): a library for composing asynchronous and event-based programs by using observable sequences.](https://github.com/ReactiveX/RxJava/wiki)
 
+7. Retrofit
+
+	>[A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
+
+8. Glide
+
+	>[https://github.com/bumptech/glide](https://github.com/bumptech/glide)
+	>
+	>[Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)

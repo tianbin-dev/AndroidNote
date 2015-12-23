@@ -9,14 +9,20 @@
 7. [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
 9. [Android实战之你应该使用哪个网络库](http://segmentfault.com/a/1190000003965158)
-10. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 11. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 12. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 13. [我眼中的下拉刷新](http://android-ultra-ptr.liaohuqiu.net/cn/)
 14. [《Android源码设计模式解析》读书笔记——Android中你应该知道的设计模式](http://blog.csdn.net/zhaokaiqiang1992/article/details/50285021)
-15. [安卓开发的小技巧]
+15. 安卓开发的小技巧
  
 	>[http://android.jobbole.com/82206/](http://android.jobbole.com/82206/)
+	>
 	>[http://android.jobbole.com/82209/](http://android.jobbole.com/82209/)
 16. [译文：Android中糟糕的AsyncTask](http://droidyue.com/blog/2014/11/08/bad-smell-of-asynctask-in-android/)
 17. [Android 关于GridView那些事](http://blog.csdn.net/lyhhj/article/details/50184965)
+18. [Android微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994&scene=1&srcid=zjoJtbvk4KkfnnifsSqm&key=dffc561732c2265111c06069467ab114bc70badd8b484f221d9c87bf5bdf13170fdada982997f00067cbdfe05bae8d25&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=bPdc%2FWr5iMjY9uqXSPPPRFMe5ly4qk0NMEHyRiSIcTA%3D)
+19. [关于Android的.so文件你所需要知道的](http://www.jianshu.com/p/cb05698a1968)
+20. [【凯子哥带你学Framework】Activity启动过程全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49428287)
+21. [【凯子哥带你学Framework】Activity界面显示全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49681321)
+
+ 

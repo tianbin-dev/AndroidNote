@@ -25,6 +25,8 @@
 
 11. [SegmentFault —— 专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务](http://segmentfault.com/)
 
+12. [谷歌开发者社区(GDG) ](http://chinagdg.org/) 
+
 ###优秀博客
 ---
 1. [Trinea](http://www.trinea.cn/)
