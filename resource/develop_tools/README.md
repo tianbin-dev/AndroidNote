@@ -13,7 +13,14 @@
 	>5. [快速提高Android开发效率的Web工具](http://droidyue.com/blog/2014/08/03/great-web-tools-for-android-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	>
 	>6. [Android Dev Bookmarks](http://adb.rocko.xyz/category/%E5%B7%A5%E5%85%B7-%E8%B5%84%E6%BA%90/)
-
+	>
+	>7. [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	>
+	>8. [Android Studio你不知道的快捷键(一)](http://www.tianweishu.com/2015/12/11/shortcut-of-android-studio-you-may-not-know/)
+	>
+	>9. [Android Studio你不知道的快捷键(二)](http://www.tianweishu.com/2015/12/12/shortcut-of-android-studio-you-may-not-know-2/)
+	>
+	>10. [Android Studio你不知道的快捷键(三)](http://tianweishu.com/2015/12/17/shortcut-of-android-studio-you-may-not-know-3/)
 
 2. Linux
 	

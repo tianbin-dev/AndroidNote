@@ -80,6 +80,34 @@
 
 	>![](image/CoordinatorLayout_AppBarLayout.gif)
 
+####九、TextView
+
+1. [HTextView](https://github.com/hanks-zyh/HTextView/blob/master/README.md)
+
+	>[Default : Scale](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/ScaleText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif)
+
+	>[EvaporateText](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/EvaporateText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo5.gif)
+
+	>[Fall](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/FallText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo6.gif)
+
+	>[Line](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/LineText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo7.gif)
+
+	>[Sparkle](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/SparkleText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo8.gif)
+
+	>[Anvil](https://github.com/hanks-zyh/HTextView/blob/master/htextview-library/src/main/java/com/hanks/htextview/animatetext/AnvilText.java)
+
+	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo2.gif)
+
 ###Android 个性化组件(Component)篇
 ---
 
