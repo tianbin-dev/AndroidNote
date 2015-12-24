@@ -56,7 +56,7 @@
 
 1. [一个刻度滚轮控件](https://github.com/lantouzi/WheelView-Android)
 
-	><img src="https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg" width="320px"/>
+	><img src="image/demo.png" width="320px"/>
 
 ####六、Highlight
 
