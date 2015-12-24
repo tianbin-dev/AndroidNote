@@ -22,7 +22,6 @@
 17. [Android 关于GridView那些事](http://blog.csdn.net/lyhhj/article/details/50184965)
 18. [Android微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994&scene=1&srcid=zjoJtbvk4KkfnnifsSqm&key=dffc561732c2265111c06069467ab114bc70badd8b484f221d9c87bf5bdf13170fdada982997f00067cbdfe05bae8d25&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=bPdc%2FWr5iMjY9uqXSPPPRFMe5ly4qk0NMEHyRiSIcTA%3D)
 19. [关于Android的.so文件你所需要知道的](http://www.jianshu.com/p/cb05698a1968)
-20. [【凯子哥带你学Framework】Activity启动过程全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49428287)
-21. [【凯子哥带你学Framework】Activity界面显示全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49681321)
+
 
  

@@ -1,5 +1,12 @@
-##源码分析##
+##源码分析
 
+1. Android
+	>1. [【凯子哥带你学Framework】Activity启动过程全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49428287)
+	>
+	>2. [【凯子哥带你学Framework】Activity界面显示全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49681321)
+
+
+##源码网址
 1. 在线查看Android源代码，尤其适合没下载源码以及需要查看特定版本实现
 
 	>1. [GrepCode.com(所有版本的Android源码以及其他的著名项目代码，比如Eclipse，JDK)](http://grepcode.com/)

@@ -10,7 +10,7 @@
 * [开源框架](https://github.com/tb-yangshu/android_learning_resource/tree/master/resource/open_lib)
 * [平台资源](https://github.com/tb-yangshu/android_learning_resource/tree/master/resource/platform_resource)
 * [工具资源](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/develop_tools)
-* [技术点分析](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/client_develop/technique_points_analyze)
+* [技术点分析](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/technique_points_analyze)
 * [编程学习资料](https://github.com/tb-yangshu/android_learning_resource/tree/master/resource/learning_resource)
 * [数据结构&算法](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/data_structure)
 * [面试题集锦](https://github.com/tb-yangshu/android_learning_resource/tree/master/resource/interview_question)
