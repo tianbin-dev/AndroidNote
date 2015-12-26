@@ -10,9 +10,10 @@
 
 3. LeanCloud
 
-	>[Build better apps, faster.](https://leancloud.cn/)
+	>[简单高效的数据和文件存储服务，配合 Node.js 云端服务器环境，提供一站式的解决方案](https://leancloud.cn/)
 
 4. [IT eBooks]
 	>[Free Download IT eBooks](http://it-ebooks.info/)
 
 5. [易源接口](https://www.showapi.com/)
+

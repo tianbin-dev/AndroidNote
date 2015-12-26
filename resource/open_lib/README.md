@@ -26,7 +26,7 @@
 
 	>[Github-An event bus by Square](https://github.com/square/otto)
 	>
-	>[Otto事件总线框架的使用](http://android.jobbole.com/82217/)
+	>* [Otto事件总线框架的使用](http://android.jobbole.com/82217/)
 
 4. EventBus
 
@@ -39,7 +39,8 @@
 6. RxJava
  
 	>[RxJava is a Java VM implementation of ReactiveX (Reactive Extensions): a library for composing asynchronous and event-based programs by using observable sequences.](https://github.com/ReactiveX/RxJava/wiki)
-
+	>
+	>* [记一次使用RxJava重构的经历](http://xhinliang.github.io/2015/12/21/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8RxJava%E9%87%8D%E6%9E%84%E7%9A%84%E7%BB%8F%E5%8E%86/)
 7. Retrofit
 
 	>[A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
@@ -48,10 +49,10 @@
 
 	>[https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 	>
-	>[Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
+	>* [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 
 9. Android-Universal-Image-Loader
 
 	>[https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 	>
-	>[Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
+	>* [Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)

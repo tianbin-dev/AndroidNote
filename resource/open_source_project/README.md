@@ -1,6 +1,6 @@
 ##开源项目
 
-###Android 个性化控件(View)篇
+###Android 自定义控件(View)篇
 ---
 
 ####一、ProgressBar
@@ -11,11 +11,18 @@
 
 2. [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView/blob/master/README.md)
 
-	><img src="image/sample.gif" alt="sample" title="sample" width="400" height="680" />
+	><img src="image/sample.gif" alt="sample" title="sample" width="320px"/>
 
 3. [CircleLoadingView](https://github.com/jhw-dev/CircleLoadingView)
 	
 	>![CircleLoadingView-screenshot](https://raw.githubusercontent.com/jhw-dev/CircleLoadingView/master/docs/screenshot.gif)
+
+4. [Android自定义View之酷炫吊炸天的数字圆环](http://www.jianshu.com/p/84df2466e26a)
+
+	>[Github](https://github.com/hellsam/DoughnutDemo_Android)
+	>
+	><img src="image/02.gif" width="320px"/>
+
 ####二、Animations 
 
 1. [Demo of the onboarding animations of Yahoo News App](https://github.com/rahulrj/YahooNewsOnboarding)
@@ -68,17 +75,17 @@
 
 2. [可实现三级联动的选择器，高仿iOS的滚轮控件](https://github.com/alafighting/CharacterPickerView)
 
-	>![效果图](image/Screenshot_2015-11-13-154813.gif)
+	><img src="image/Screenshot_2015-11-13-154813.gif" width="320px"/>
 
 ####八、Material Design
 
 1. [Material Design之CollapsingToolbarLayout使用](http://android.jobbole.com/82193/)
 
-	>![](image/CollapsingToolbarLayout.gif)
+	><img src="image/CollapsingToolbarLayout.gif" width="320px"/>
 
 2. [Material Design之CoordinatorLayout+AppBarLayout实现上滑隐藏ToolBar](http://android.jobbole.com/82188/)
 
-	>![](image/CoordinatorLayout_AppBarLayout.gif)
+	><img src="image/CoordinatorLayout_AppBarLayout.gif" width="320px"/>
 
 ####九、TextView
 
@@ -108,15 +115,26 @@
 
 	>![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo2.gif)
 
-###Android 个性化组件(Component)篇
+
+####九、Button
+
+1. [Android like button with delightful star animation inspired by Twitter's heart](https://github.com/frogermcs/LikeAnimation/)
+
+	><img src="image/star.gif" width="320px"/>
+
+
+###Android 自定义组件(Component)篇
 ---
 
 ####一、FlycoTabLayout
 1. [An Android TabLayout Lib has two kinds of TabLayout at present.](https://github.com/H07000223/FlycoTabLayout)
 
-	>![](image/preview_1.gif)
-	>![](image/preview_2.gif)
-	>![](image/preview_3.gif)
+	><img src="image/preview_1.gif" width="320px"/>
+	><img src="image/preview_2.gif" width="320px"/>
+	><img src="image/preview_3.gif" width="320px"/>
+
+2. [类似微信的图片选择、预览组件](https://github.com/donglua/PhotoPicker)
+
 
 
 ###Bmob即时聊天开发组件
@@ -126,13 +144,14 @@
 
 **界面效果**
 
-![](image/reg.png)
+!<img src="image/reg.png" width="320px"/>
 
-![](image/login.png)
+!<img src="image/login.png" width="320px"/>
 
-![](image/session1.png)
+!<img src="image/session1.png" width="320px"/>
 
-![](image/chat1.png)
+!<img src="image/chat1.png" width="320px"/>
+
 
 ###Android 个人开源项目
 ---
@@ -141,6 +160,11 @@
 2. [Material Design设计开发的Android客户端](https://github.com/tb-yangshu/SimplifyReader)
 
 	>一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
+	
+3. [A surgical debugging tool to uncover the layers under your app.](https://github.com/JakeWharton/scalpel)
+
+	>Scalpel: Jake大神的第三把刀 
+
 
 ###巨人的肩膀
 ---

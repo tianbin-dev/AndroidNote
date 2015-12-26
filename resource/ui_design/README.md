@@ -27,3 +27,11 @@
 9. [Material Design 中文版](http://design.1sters.com/)
 
 10. [PxCook：一款图片标注、切图工具](http://hao.jobbole.com/pxcook/)
+
+11. [超过380000张！免费优质+多种尺寸图片自由下载图库站](http://www.uisdc.com/380000-free-image-websites)
+
+12. [Social Colors - 社交网站的主色](http://www.materialui.co/socialcolors)
+
+13. [冬季限定！一组寒冬主题的免费图标素材合集](http://www.uisdc.com/winter-icons-asset-download)
+
+14. [IconArchive:专业图标搜索引擎](http://hao.jobbole.com/iconarchive/)

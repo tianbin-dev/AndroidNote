@@ -1,10 +1,13 @@
-##技术点分析
+##优秀技术文章
+
+
+###Android
+---
 
 1. [每一位Android开发者应该知道的Android体系架构和开发库](http://android.jobbole.com/60202/)
 2. [Android GC 那点事](http://gold.xitu.io/entry/5625144060b2b199f769ef74/view)
 3. [Android应用增量更新 - Smart App Updates](https://github.com/cundong/SmartAppUpdates)
 4. [携程App的插件化和动态加载框架](https://github.com/CtripMobile/DynamicAPK)
-5. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
 6. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 7. [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
@@ -22,6 +25,27 @@
 17. [Android 关于GridView那些事](http://blog.csdn.net/lyhhj/article/details/50184965)
 18. [Android微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994&scene=1&srcid=zjoJtbvk4KkfnnifsSqm&key=dffc561732c2265111c06069467ab114bc70badd8b484f221d9c87bf5bdf13170fdada982997f00067cbdfe05bae8d25&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=bPdc%2FWr5iMjY9uqXSPPPRFMe5ly4qk0NMEHyRiSIcTA%3D)
 19. [关于Android的.so文件你所需要知道的](http://www.jianshu.com/p/cb05698a1968)
+20. [android图片处理方法](http://gundumw100.iteye.com/blog/849729)
+21. [Android实战经验之图像处理及特效处理的集锦（总结版）](http://www.oschina.net/question/231733_44154)
+22. [正确使用FAB](http://android.jobbole.com/82268/)
+23. [Android 中的建造者模式](http://www.jianshu.com/p/a0435bbc8681)
+
+
+###Java
+---
+5. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+24. [谈谈面向对象设计(OOD)](http://www.jianshu.com/p/e378025920f8)
+
+
+###Test
+---
+24. [用黑客思维做测试——神器 Xposed 框架介绍](https://testerhome.com/topics/3819)
+
+###Strategy
+---
+22. [如何在一天之内搭建以你自己名字为域名又具备cool属性的个人博客](http://wingjay.com/2015/12/07/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%90%AD%E5%BB%BA%E4%BB%A5%E4%BD%A0%E8%87%AA%E5%B7%B1%E5%90%8D%E5%AD%97%E4%B8%BA%E5%9F%9F%E5%90%8D%E7%9A%84%E5%BE%88cool%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+
+
 
 
  

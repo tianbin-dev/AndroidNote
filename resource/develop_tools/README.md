@@ -2,7 +2,7 @@
 
 1. Android
 
-	>1. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+	>* [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 	>
 	>2. [Android Studio Tips Of the Day](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
 	>
@@ -21,6 +21,11 @@
 	>9. [Android Studio你不知道的快捷键(二)](http://www.tianweishu.com/2015/12/12/shortcut-of-android-studio-you-may-not-know-2/)
 	>
 	>10. [Android Studio你不知道的快捷键(三)](http://tianweishu.com/2015/12/17/shortcut-of-android-studio-you-may-not-know-3/)
+	>
+	>* [android 离线资源下载（sdk，tools，sample）](https://dl.google.com/android/repository/repository-11.xml)
+	>
+	>* [Prott：移动测试原型制作工具](http://hao.jobbole.com/prott/)
+
 
 2. Linux
 	
@@ -51,7 +56,44 @@
 7. 自动化构建平台
  
 	>[Jenkins](http://jenkins-ci.org/)
+	>
+	>[Windows下简易Jenkins环境的搭建](http://www.jianshu.com/p/1081a39af9a9)
+
 
 8. [为应用添加在线预览](https://appetize.io/)
 
 	>[appetize](https://appetize.io/)
+
+9. 16个上谷歌的方法
+
+	>http://gl.randomk.org/
+	>
+	>http://www.googleforchina.com/index_desktop.html
+	>
+	>http://google.ihuan.me/
+	>
+	>http://www.gugesou.com/
+	>
+	>http://www.egeso.com/
+	>
+	>http://ggsousuo.duapp.com/
+	>
+	>http://so.jieshang.net/
+	>
+	>https://www.gotosearch.info/
+	>
+	>http://www.googto.com/
+	>
+	>https://guge.io/
+	>
+	>http://www.g363.com/
+	>
+	>http://web.btbook.net/
+	>
+	>https://www.out1000.com/
+	>
+	>http://www.googke.me/
+	>
+	>http://www.wow.com/
+	>
+	>https://www.booo.so/
