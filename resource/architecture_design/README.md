@@ -1,13 +1,9 @@
 ##架构设计
 
-
+	
 1. 对Android开发有用的技术栈
 	
 	>[架构篇](http://android.jobbole.com/82051/)
-
-2. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
-
-3. [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
 
 3. Android best practice(安卓开发最佳实践)
 	>[英文版](https://github.com/futurice/android-best-practices)
@@ -52,3 +48,10 @@
 
 
 11. [构建更高质量的应用 – 2015 Playtime 之 Build Better](http://chinagdg.org/2015/12/%E6%9E%84%E5%BB%BA%E6%9B%B4%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8/#rd?sukey=fc78a68049a14bb26c717b0ed20bdc0134d14f32474bf53a54b4e99c122847a4be59ee736367bfb9cfc6c5930d58aa97)
+
+###Android MVC MVP MVVM
+---
+
+2. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
+
+3. [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)

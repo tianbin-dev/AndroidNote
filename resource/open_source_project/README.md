@@ -186,7 +186,30 @@
 
 5. [Code4App](http://a.code4app.com/category)
 
-6. 代码片段
+6. [2015年十大热门Android开源新项目](http://www.jianshu.com/p/aa7238cd8daf)
+
+	>* [fresco](https://github.com/facebook/fresco)
+	>
+	>* [leakcanary](https://github.com/square/leakcanary)
+	>
+	>* [HomeMirror](https://github.com/HannahMitt/HomeMirror)
+	>
+	>* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+	>
+	>* [cheesesquare](https://github.com/chrisbanes/cheesesquare)
+	>
+	>* [plaid](https://github.com/nickbutcher/plaid)
+	>
+	>* [stetho](https://github.com/facebook/stetho)
+	>
+	>* [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+	>
+	>* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+	>
+	>* [Material-Animations](https://github.com/lgvalle/Material-Animations)
+	
+
+7. 代码片段
 
 	>[代码片段，代码分享，PHP代码分享，Java代码分享,Ruby代码分享，Python代码分享，HTML代码分享，CSS代码分享，SQL代码分享，JavaScript代码分享](http://www.phpxs.com/code)
 	>
