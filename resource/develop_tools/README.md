@@ -32,11 +32,16 @@
 	>1. [Ubuntu软件与主题推介](http://www.jianshu.com/p/617e4388d814)
 
 3. Git
+
 	>1. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 	>
 	>2. [在线生成 .gitignore 文件](https://www.gitignore.io/)
+	>
+	>3. [大话 Git 工作流](https://blog.coding.net/blog/git-workflow)
+	>
 
 4. PMD（需要翻墙）
+
 	>[点击下载Jar包(百度云盘)](http://pan.baidu.com/s/1sjzhmGX)
 
 	>[PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript, PLSQL, Apache Velocity, XML, XSL.Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, PHP, Ruby, Fortran, JavaScript, PLSQL, Apache Velocity, Ruby, Scala, Objective C, Matlab, Python, Go.](https://pmd.github.io/)
@@ -63,6 +68,8 @@
 8. [为应用添加在线预览](https://appetize.io/)
 
 	>[appetize](https://appetize.io/)
+
+9. [六套 App：构建我的产品设计工作流](http://www.jianshu.com/p/557af25ce801)
 
 9. 16个上谷歌的方法
 
