@@ -27,13 +27,14 @@
 20. [android图片处理方法](http://gundumw100.iteye.com/blog/849729)
 21. [Android实战经验之图像处理及特效处理的集锦（总结版）](http://www.oschina.net/question/231733_44154)
 22. [正确使用FAB](http://android.jobbole.com/82268/)
-23. [Android 中的建造者模式](http://www.jianshu.com/p/a0435bbc8681)
+24. [给创业码农的话--如何提升开发效率](https://simpleton.gitbooks.io/sim-tech-note/content/Android/AndroidStartupTutorial.html#rd?sukey=69cca48b20c586696fda3d09939ded4c38a28a67ee57633a44f704ca58cc2b99d19fe5f9f9bd596dd5eeba38adf19c13)
 
 
 ###Java
 ---
 5. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
 24. [谈谈面向对象设计(OOD)](http://www.jianshu.com/p/e378025920f8)
+25. [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
 25. [Java并发包学习](http://qifuguang.me/tags/Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0/)
 
 	>[Executor和ExecutorService](http://qifuguang.me/2015/08/11/[Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0%E4%B8%80]Executor%E5%92%8CExecutorService/)

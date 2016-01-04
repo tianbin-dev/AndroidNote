@@ -6,6 +6,7 @@
 
 	>[Test-Drive Your Android Code](http://robolectric.org/)
 
+2. [List of Android Testing Libraries](https://github.com/hotchemi/awesome-android-testing) 
 
 ###工具
 ---

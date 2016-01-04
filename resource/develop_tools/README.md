@@ -39,6 +39,8 @@
 	>
 	>3. [大话 Git 工作流](https://blog.coding.net/blog/git-workflow)
 	>
+	>4. [闯过这 54 关，点亮你的 Git 技能树](http://segmentfault.com/a/1190000004222489)
+	>
 
 4. PMD（需要翻墙）
 
