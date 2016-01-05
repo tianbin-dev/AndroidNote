@@ -28,6 +28,18 @@
 21. [Android实战经验之图像处理及特效处理的集锦（总结版）](http://www.oschina.net/question/231733_44154)
 22. [正确使用FAB](http://android.jobbole.com/82268/)
 24. [给创业码农的话--如何提升开发效率](https://simpleton.gitbooks.io/sim-tech-note/content/Android/AndroidStartupTutorial.html#rd?sukey=69cca48b20c586696fda3d09939ded4c38a28a67ee57633a44f704ca58cc2b99d19fe5f9f9bd596dd5eeba38adf19c13)
+25. [另外两种android沉浸式状态栏实现思路](http://www.jianshu.com/p/b100b64544f3)
+26. Gradle for Android
+ 
+	>[从Gradle和AS 开始](http://segmentfault.com/a/1190000004229002)
+	>
+	>[Build.gradle入门](http://segmentfault.com/a/1190000004234712?_ea=538654)
+	>
+	>[依赖管理](http://segmentfault.com/a/1190000004237922)
+	>
+	>[构建变体](http://segmentfault.com/a/1190000004241503)
+	>
+	>[多模块构建](http://segmentfault.com/a/1190000004247809)
 
 
 ###Java
@@ -63,6 +75,7 @@
 ###Strategy
 ---
 22. [如何在一天之内搭建以你自己名字为域名又具备cool属性的个人博客](http://wingjay.com/2015/12/07/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%90%AD%E5%BB%BA%E4%BB%A5%E4%BD%A0%E8%87%AA%E5%B7%B1%E5%90%8D%E5%AD%97%E4%B8%BA%E5%9F%9F%E5%90%8D%E7%9A%84%E5%BE%88cool%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+23. [如何使用10个小时搭建出个人域名而又Geek的独立博客？](http://www.jianshu.com/p/bfdde09e7f6a)
 
 
 

@@ -35,3 +35,7 @@
 13. [冬季限定！一组寒冬主题的免费图标素材合集](http://www.uisdc.com/winter-icons-asset-download)
 
 14. [IconArchive:专业图标搜索引擎](http://hao.jobbole.com/iconarchive/)
+
+15. [FreeImages：免费商业图片素材网](http://hao.jobbole.com/freeimages/)
+
+16. [Raumrot：免费高分辨率无版权图片网](http://www.raumrot.com/)

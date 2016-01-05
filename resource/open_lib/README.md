@@ -56,3 +56,9 @@
 	>[https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 	>
 	>* [Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
+
+10. Python 
+
+	>[Python教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+	>
+	>[10 Most Popular Python Libraries Started in 2015](http://blog.apcelent.com/most-popular-python-library-2015.html)
