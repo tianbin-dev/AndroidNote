@@ -41,3 +41,5 @@
 13. [Android开发文档](http://api.apkbus.com/reference/android/media/ExifInterface.html)
 
 14. [2015程序人生大串烧](http://zhuanlan.zhihu.com/prattle/20459642)
+
+15. [Google推出的31套在线课程](http://chinagdg.org/2015/12/google-%E6%8E%A8%E5%87%BA%E7%9A%84-31-%E5%A5%97%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B/)
