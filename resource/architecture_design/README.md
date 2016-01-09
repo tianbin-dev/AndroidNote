@@ -47,6 +47,7 @@
 
 11. [构建更高质量的应用 – 2015 Playtime 之 Build Better](http://chinagdg.org/2015/12/%E6%9E%84%E5%BB%BA%E6%9B%B4%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8/#rd?sukey=fc78a68049a14bb26c717b0ed20bdc0134d14f32474bf53a54b4e99c122847a4be59ee736367bfb9cfc6c5930d58aa97)
 12. [Hybrid APP 架构设计思路](http://segmentfault.com/a/1190000004263182)
+13. [微信Android客户端架构演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402023042&idx=1&sn=0c64c9db380410e58c097ee65708ff11&scene=0#wechat_redirect)
 
 ###Android MVC MVP MVVM
 ---
