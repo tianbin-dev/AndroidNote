@@ -71,6 +71,11 @@
 6. [Java细节：字符串的拼接](http://droidyue.com/blog/2014/08/30/java-details-string-concatenation/)
 
 
+###Http
+
+1. [简述 OAuth 2.0 的运作流程](http://www.barretlee.com/blog/2016/01/10/oauth2-introduce/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+2. [The OAuth 2.0 Authorization Framework](http://www.rfcreader.com/#rfc6749)
+
 ###Test
 ---
 24. [用黑客思维做测试——神器 Xposed 框架介绍](https://testerhome.com/topics/3819)

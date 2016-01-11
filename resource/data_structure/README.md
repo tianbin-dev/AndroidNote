@@ -31,7 +31,14 @@
 ###算法
 ---
 
-3. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+1. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+2. [基于用户投票的排名算法（一）：Delicious和Hacker News](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
+3. [基于用户投票的排名算法（二）：Reddit](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_reddit.html)
+4. [基于用户投票的排名算法（三）：Stack Overflow](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_stack_overflow.html)
+5. [基于用户投票的排名算法（四）：牛顿冷却定律](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_newton_s_law_of_cooling.html)
+6. [基于用户投票的排名算法（五）：威尔逊区间](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_wilson_score_interval.html)
+7. [基于用户投票的排名算法（六）：贝叶斯平均](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_bayesian_average.html)
+8. [SegmentFault 热门内容优化](http://segmentfault.com/a/1190000004253816)
 
 ###设计模式
 ---

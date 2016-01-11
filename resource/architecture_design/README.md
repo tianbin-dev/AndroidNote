@@ -52,8 +52,12 @@
 ###Android MVC MVP MVVM
 ---
 
-2. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
+1. [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0)
 
-3. [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
+2. [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
 
-7. [App工程结构搭建：几种常见Android代码架构分析](http://mobile.51cto.com/abased-386212.htm)
+3. [App工程结构搭建：几种常见Android代码架构分析](http://mobile.51cto.com/abased-386212.htm)
+
+4. [被误解的 MVC 和被神化的 MVVM](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/)
+
+5. [如何正确地写好一个界面](http://oncenote.com/2015/12/08/How-to-build-UI/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
