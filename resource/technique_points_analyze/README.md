@@ -68,6 +68,8 @@
 	>[Java中的阻塞队列](http://qifuguang.me/2015/10/23/Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0%E4%B9%9D-Java%E4%B8%AD%E7%9A%84%E9%98%BB%E5%A1%9E%E9%98%9F%E5%88%97/)
 	>
 5. [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
+6. [Java细节：字符串的拼接](http://droidyue.com/blog/2014/08/30/java-details-string-concatenation/)
+
 
 ###Test
 ---

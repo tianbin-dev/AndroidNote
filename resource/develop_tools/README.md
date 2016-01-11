@@ -73,7 +73,9 @@
 
 9. [六套 App：构建我的产品设计工作流](http://www.jianshu.com/p/557af25ce801)
 
-9. 16个上谷歌的方法
+10. [让思路更清晰——我是怎样使用思维导图的](https://blog.coding.net/blog/coding-mindmap)
+
+11. 16个上谷歌的方法
 
 	>http://gl.randomk.org/
 	>
