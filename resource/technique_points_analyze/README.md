@@ -29,25 +29,14 @@
 22. [正确使用FAB](http://android.jobbole.com/82268/)
 24. [给创业码农的话--如何提升开发效率](https://simpleton.gitbooks.io/sim-tech-note/content/Android/AndroidStartupTutorial.html#rd?sukey=69cca48b20c586696fda3d09939ded4c38a28a67ee57633a44f704ca58cc2b99d19fe5f9f9bd596dd5eeba38adf19c13)
 25. [另外两种android沉浸式状态栏实现思路](http://www.jianshu.com/p/b100b64544f3)
-26. Gradle for Android
- 
-	>[从Gradle和AS 开始](http://segmentfault.com/a/1190000004229002)
-	>
-	>[Build.gradle入门](http://segmentfault.com/a/1190000004234712?_ea=538654)
-	>
-	>[依赖管理](http://segmentfault.com/a/1190000004237922)
-	>
-	>[构建变体](http://segmentfault.com/a/1190000004241503)
-	>
-	>[多模块构建](http://segmentfault.com/a/1190000004247809)
-
+26. [Tricking Android MemoryFile](http://ragnraok.github.io/tricking-android-memoryfile.html)
 
 ###Java
 ---
-5. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
-24. [谈谈面向对象设计(OOD)](http://www.jianshu.com/p/e378025920f8)
-25. [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
-25. [Java并发包学习](http://qifuguang.me/tags/Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0/)
+1. [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+2. [谈谈面向对象设计(OOD)](http://www.jianshu.com/p/e378025920f8)
+3. [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
+4. [Java并发包学习](http://qifuguang.me/tags/Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0/)
 
 	>[Executor和ExecutorService](http://qifuguang.me/2015/08/11/[Java%E5%B9%B6%E5%8F%91%E5%8C%85%E5%AD%A6%E4%B9%A0%E4%B8%80]Executor%E5%92%8CExecutorService/)
 	>
@@ -69,7 +58,8 @@
 	>
 5. [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
 6. [Java细节：字符串的拼接](http://droidyue.com/blog/2014/08/30/java-details-string-concatenation/)
-
+7. [GC专家系列1：理解Java垃圾回收](http://segmentfault.com/a/1190000004233812)
+8. [GC专家系列2：Java 垃圾回收的监控](http://segmentfault.com/a/1190000004255118)
 
 ###Http
 
