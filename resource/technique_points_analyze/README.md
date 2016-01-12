@@ -30,6 +30,8 @@
 24. [给创业码农的话--如何提升开发效率](https://simpleton.gitbooks.io/sim-tech-note/content/Android/AndroidStartupTutorial.html#rd?sukey=69cca48b20c586696fda3d09939ded4c38a28a67ee57633a44f704ca58cc2b99d19fe5f9f9bd596dd5eeba38adf19c13)
 25. [另外两种android沉浸式状态栏实现思路](http://www.jianshu.com/p/b100b64544f3)
 26. [Tricking Android MemoryFile](http://ragnraok.github.io/tricking-android-memoryfile.html)
+27. [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
+28. [Android开发者应该知道的Kotlin](http://www.infoq.com/cn/news/2016/01/kotlin-android)
 
 ###Java
 ---

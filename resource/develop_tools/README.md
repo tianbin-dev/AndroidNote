@@ -19,7 +19,35 @@
 	>7. [Android Studio你不知道的快捷键(二)](http://www.tianweishu.com/2015/12/12/shortcut-of-android-studio-you-may-not-know-2/)
 	>
 	>8. [Android Studio你不知道的快捷键(三)](http://tianweishu.com/2015/12/17/shortcut-of-android-studio-you-may-not-know-3/)
+	>	
+	>9. Gradle for Android
+	>   
+	>       >[从 Gradle 和 AS 开始](http://segmentfault.com/a/1190000004229002)
+	>       >
+	>       >[Build.gradle入门](http://segmentfault.com/a/1190000004234712?_ea=538654)
+	>       
+	>       >[依赖管理](http://segmentfault.com/a/1190000004237922)
+	>       
+	>       >[构建变体](http://segmentfault.com/a/1190000004241503)
+	>       >
+	>       >[多模块构建](http://segmentfault.com/a/1190000004247809)
+	>       
+	>       >[测试](http://segmentfault.com/a/1190000004260141)
+	>       
+	>       >[Groovy入门](http://segmentfault.com/a/1190000004276167)
+* gradle
+	
+	>1. [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)
+	>       >可以生成代码单元测试覆盖率报告的 Gradle 插件
 	>
+	>2. [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin)
+	>       >可以生成 java doc 的 Gradle 插件
+	>
+	>3. [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin)
+	>       >可以将 Apk 大小记录到 CSV 文件的 Gradle 插件
+	>
+
+
 * Web
 
 	>1. [快速提高Android开发效率的Web工具](http://droidyue.com/blog/2014/08/03/great-web-tools-for-android-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -33,6 +61,13 @@
 	>5. [为应用添加在线预览](https://appetize.io/)
 	>
 	>6. [六套 App：构建我的产品设计工作流](http://www.jianshu.com/p/557af25ce801)
+
+* 黑科技
+
+	>1.[recompress-apk](https://github.com/hyongbai/recompress-apk)
+	>       >一个可以重新压缩一个已经签名了个apk，而不会破坏apk原始的签名的脚本工具
+	>       
+
 
 ###Linux
 
