@@ -1,6 +1,7 @@
 ##架构设计
 
-	
+0. [一个优秀的Android应用从建项目开始](http://www.jianshu.com/p/d9e4ddd1c530)	
+
 1. 对Android开发有用的技术栈
 	
 	>[架构篇](http://android.jobbole.com/82051/)
@@ -62,3 +63,9 @@
 4. [被误解的 MVC 和被神化的 MVVM](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/)
 
 5. [如何正确地写好一个界面](http://oncenote.com/2015/12/08/How-to-build-UI/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+6. [Android应用中MVP最佳实践](http://www.jianshu.com/p/ed2aa9546c2c)
+
+7. [一个优秀的Android应用从建项目开始](http://www.jianshu.com/p/d9e4ddd1c530)
+
+8. [Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)

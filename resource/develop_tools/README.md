@@ -35,6 +35,8 @@
 	>       >[测试](http://segmentfault.com/a/1190000004260141)
 	>       
 	>       >[Groovy入门](http://segmentfault.com/a/1190000004276167)
+
+
 * gradle
 	
 	>1. [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)
@@ -65,6 +67,7 @@
 * 黑科技
 
 	>1.[recompress-apk](https://github.com/hyongbai/recompress-apk)
+	>       
 	>       >一个可以重新压缩一个已经签名了个apk，而不会破坏apk原始的签名的脚本工具
 	>       
 
@@ -110,6 +113,8 @@
 >[Jenkins](http://jenkins-ci.org/)
 >
 >[Windows下简易Jenkins环境的搭建](http://www.jianshu.com/p/1081a39af9a9)
+>
+>[Jenkins知识地图](http://blog.csdn.net/feiniao1221/article/details/10259449)
 
 
 ###逻辑梳理工具

@@ -3,6 +3,7 @@
 1. 针对各种知识点提供入门教程
 
 	>[Home | CodePath Android Cliffnotes](http://guides.codepath.com/android)
+	>[tutorialspoint](http://www.tutorialspoint.com/)
 
 2. vogella
 
@@ -43,3 +44,5 @@
 14. [2015程序人生大串烧](http://zhuanlan.zhihu.com/prattle/20459642)
 
 15. [Google推出的31套在线课程](http://chinagdg.org/2015/12/google-%E6%8E%A8%E5%87%BA%E7%9A%84-31-%E5%A5%97%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B/)
+
+16. [每个 Android 开发者必须知道的资源集锦](http://www.codeceo.com/article/android-resources-programmer-know.html)

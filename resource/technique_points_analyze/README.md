@@ -32,6 +32,13 @@
 26. [Tricking Android MemoryFile](http://ragnraok.github.io/tricking-android-memoryfile.html)
 27. [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
 28. [Android开发者应该知道的Kotlin](http://www.infoq.com/cn/news/2016/01/kotlin-android)
+29. [Android Proguard指南](http://tbwisk.github.io/lessons/2015/01/29/Android-Proguard%E6%8C%87%E5%8D%97/)
+30. [Android退出应用最优雅的方式](http://android.jobbole.com/82316/)
+31. [Android退出应用最优雅的方式(改进版)](http://blog.csdn.net/soul_code/article/details/50453934)
+32. [Android网络请求心路历程](http://android.jobbole.com/82349/)
+33. [Remix OS：为桌面打造的Android修改版本](https://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=402664571&idx=2&sn=39c851b45250067f6977e89b248cec37&scene=0&key=41ecb04b05111003862f9a9412c1ed18d7899b336417e48c217ac0e7923790603886ee96474e579a57da9f93a50be2d4&ascene=7&uin=MjI2OTY5MzY0Mw%3D%3D&devicetype=android-22&version=26030930&nettype=3gnet&pass_ticket=j1IFP48Df6t8DU%2FKPVFrIV2ObrTQUnhI5xc%2Bo662lRvSOJhA%2BIj7Z6ljP4kC8U8Y)
+34. [Android中如何计算App的启动时间？](http://androidperformance.com/2015/12/31/How-to-calculation-android-app-lunch-time.html)
+35. [Android人脸检测介绍](http://android.jobbole.com/82310/)
 
 ###Java
 ---
