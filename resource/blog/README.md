@@ -61,6 +61,8 @@
 	
 14. [Hongyang](http://blog.csdn.net/lmj623565791?viewmode=list)
 	>生命不息，奋斗不止，万事起于忽微，量变引起质变
+	
 15. [江清清的专栏](http://blog.csdn.net/developer_jiangqq)
-        >移动端(Android/IOS)主管，菜鸟窝签约Android讲师，android实例讲解
+    >移动端(Android/IOS)主管，菜鸟窝签约Android讲师，android实例讲解
+    
 16. [懒人的技术笔记](http://blog.csdn.net/lincyang)

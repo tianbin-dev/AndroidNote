@@ -19,22 +19,10 @@
 	>7. [Android Studio你不知道的快捷键(二)](http://www.tianweishu.com/2015/12/12/shortcut-of-android-studio-you-may-not-know-2/)
 	>
 	>8. [Android Studio你不知道的快捷键(三)](http://tianweishu.com/2015/12/17/shortcut-of-android-studio-you-may-not-know-3/)
-	>	
-	>9. Gradle for Android
-	>   
-	>       >[从 Gradle 和 AS 开始](http://segmentfault.com/a/1190000004229002)
-	>       >
-	>       >[Build.gradle入门](http://segmentfault.com/a/1190000004234712?_ea=538654)
+	>
+	>9. [Android Studio编程技巧](http://geek.csdn.net/news/detail/51201#rd?sukey=7f8f3cb2e9b0da459281f85f778dd6b0b47c337a19d42fa7ae746b918cac493c62b22225d504adcebe8efff64764b841)	
 	>       
-	>       >[依赖管理](http://segmentfault.com/a/1190000004237922)
-	>       
-	>       >[构建变体](http://segmentfault.com/a/1190000004241503)
-	>       >
-	>       >[多模块构建](http://segmentfault.com/a/1190000004247809)
-	>       
-	>       >[测试](http://segmentfault.com/a/1190000004260141)
-	>       
-	>       >[Groovy入门](http://segmentfault.com/a/1190000004276167)
+	       
 
 
 * gradle
@@ -48,7 +36,21 @@
 	>3. [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin)
 	>       >可以将 Apk 大小记录到 CSV 文件的 Gradle 插件
 	>
-
+	>4. Gradle for Android
+	>       >[从 Gradle 和 AS 开始](http://segmentfault.com/a/1190000004229002)
+	>       >
+	>       >[Build.gradle入门](http://segmentfault.com/a/1190000004234712?_ea=538654)
+	>       >
+	>       >[依赖管理](http://segmentfault.com/a/1190000004237922)
+	>       >
+	>       >[构建变体](http://segmentfault.com/a/1190000004241503)
+	>       >
+	>       >[多模块构建](http://segmentfault.com/a/1190000004247809)
+	>       >
+	>       >[测试](http://segmentfault.com/a/1190000004260141)
+	>       >
+	>       >[Groovy入门](http://segmentfault.com/a/1190000004276167)
+	>       
 
 * Web
 

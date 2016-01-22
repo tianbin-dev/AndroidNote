@@ -7,8 +7,11 @@
 	>[Test-Drive Your Android Code](http://robolectric.org/)
 
 2. [List of Android Testing Libraries](https://github.com/hotchemi/awesome-android-testing)
+
 3. [[英] 世界级的 Android 测试流程（一）](http://blog.karumi.com/world-class-testing-development-pipeline-for-android/) 
+
 4. [[英] 世界级的 Android 测试流程（二）](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2/)
+
 5. [Android单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html)
 
 

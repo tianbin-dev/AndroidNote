@@ -2,6 +2,8 @@
 
 0. [一个优秀的Android应用从建项目开始](http://www.jianshu.com/p/d9e4ddd1c530)	
 
+0. [从零开始搭建架构实施Android项目](http://www.cnblogs.com/lao-liang/p/5122425.html)
+
 1. 对Android开发有用的技术栈
 	
 	>[架构篇](http://android.jobbole.com/82051/)
