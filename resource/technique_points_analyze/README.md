@@ -12,8 +12,6 @@
 7. [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 8. [Android Support Library介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
 9. [Android实战之你应该使用哪个网络库](http://segmentfault.com/a/1190000003965158)
-11. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
-12. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 13. [我眼中的下拉刷新](http://android-ultra-ptr.liaohuqiu.net/cn/)
 15. 安卓开发的小技巧
  

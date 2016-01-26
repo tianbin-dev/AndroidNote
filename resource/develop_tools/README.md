@@ -51,6 +51,14 @@
 	>       >
 	>       >[Groovy入门](http://segmentfault.com/a/1190000004276167)
 	>       
+	>5. 打包
+	>
+	>       >[新一代Android渠道打包工具：1000个渠道包只需要5秒](http://www.finalshares.com/read-6735?f=g&n41)
+	>       >
+	>       >[美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
+	>       
+	>       >[美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
+	>
 
 * Web
 
@@ -117,7 +125,8 @@
 >[Windows下简易Jenkins环境的搭建](http://www.jianshu.com/p/1081a39af9a9)
 >
 >[Jenkins知识地图](http://blog.csdn.net/feiniao1221/article/details/10259449)
-
+>
+>[[团队分享]使用jenkins自动化构建android和ios应用](http://www.jayfeng.com/2015/10/22/%E4%BD%BF%E7%94%A8jenkins%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BAandroid%E5%92%8Cios%E5%BA%94%E7%94%A8/)
 
 ###逻辑梳理工具
 
