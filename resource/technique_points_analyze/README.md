@@ -37,6 +37,7 @@
 33. [Remix OS：为桌面打造的Android修改版本](http://www.jide.com/en/remixos-for-pc#downloadNow)
 34. [Android中如何计算App的启动时间？](http://androidperformance.com/2015/12/31/How-to-calculation-android-app-lunch-time.html)
 35. [Android人脸检测介绍](http://android.jobbole.com/82310/)
+36. [Android：Activity与Fragment通信(99%)完美解决方案](http://www.jianshu.com/p/1b824e26105b)
 
 ###Java
 ---

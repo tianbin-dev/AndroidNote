@@ -14,16 +14,22 @@
 	>
 	>5. [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	>
+	>9. [Android Studio编程技巧](http://geek.csdn.net/news/detail/51201#rd?sukey=7f8f3cb2e9b0da459281f85f778dd6b0b47c337a19d42fa7ae746b918cac493c62b22225d504adcebe8efff64764b841)
+	>
 	>6. [Android Studio你不知道的快捷键(一)](http://www.tianweishu.com/2015/12/11/shortcut-of-android-studio-you-may-not-know/)
 	>
 	>7. [Android Studio你不知道的快捷键(二)](http://www.tianweishu.com/2015/12/12/shortcut-of-android-studio-you-may-not-know-2/)
 	>
 	>8. [Android Studio你不知道的快捷键(三)](http://tianweishu.com/2015/12/17/shortcut-of-android-studio-you-may-not-know-3/)
 	>
-	>9. [Android Studio编程技巧](http://geek.csdn.net/news/detail/51201#rd?sukey=7f8f3cb2e9b0da459281f85f778dd6b0b47c337a19d42fa7ae746b918cac493c62b22225d504adcebe8efff64764b841)	
+	>9. [从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)	
 	>       
-	       
-
+	>10. [Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)       
+	>
+	>11. [溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
+	>
+	>12. [Maven 仓库使用与私有仓库搭建](http://kvh.io/2016/01/20/embrace-android-studio-maven-deploy/)
+	>
 
 * gradle
 	
