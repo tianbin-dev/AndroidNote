@@ -1,7 +1,7 @@
 # CodingResource
 
 ##技术
----
+
 
 * [开源项目](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/open_source_project)
 * [性能优化](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/perform_optimization)
@@ -18,14 +18,14 @@
 
 
 ##项目管理
----
+
 
 * [敏捷开发](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/scrum)
 * [平台资源](https://github.com/tb-yangshu/android_learning_resource/tree/master/resource/platform_resource)
 * [界面设计](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/ui_design)
 
 ##工具
----
+
 
 * [工具资源](https://github.com/tb-yangshu/AndroidLearningResource/tree/master/resource/develop_tools)
 
