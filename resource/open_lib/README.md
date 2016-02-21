@@ -40,10 +40,14 @@
  
 	>[RxJava is a Java VM implementation of ReactiveX (Reactive Extensions): a library for composing asynchronous and event-based programs by using observable sequences.](https://github.com/ReactiveX/RxJava/wiki)
 	>
+	>* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 	>* [记一次使用RxJava重构的经历](http://xhinliang.github.io/2015/12/21/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8RxJava%E9%87%8D%E6%9E%84%E7%9A%84%E7%BB%8F%E5%8E%86/)
+	>* [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 7. Retrofit
 
 	>[A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
+	
+	>[用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 
 8. Glide
 
