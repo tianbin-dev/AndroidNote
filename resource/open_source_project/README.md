@@ -1,5 +1,54 @@
 ##开源项目
 
+###巨人的肩膀
+---
+1. GitHub上的各大开源库的收录和分析
+
+	>[Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
+
+2. AndroidOpenSourceProject
+
+	>[Android Open Source Project dedicated to collect high-quality Android open source project.](http://www.androidopensourceproject.com/)
+
+3. AndroidLibs
+
+	>[收集Android开发中优秀的开源组件库](https://github.com/XXApple/AndroidLibs)
+
+4. awesome-android
+
+	>[android libs from github](https://github.com/snowdream/awesome-android)
+
+5. [Code4App](http://a.code4app.com/category)
+
+6. [2015年十大热门Android开源新项目](http://www.jianshu.com/p/aa7238cd8daf)
+
+	>* [fresco](https://github.com/facebook/fresco)
+	>
+	>* [leakcanary](https://github.com/square/leakcanary)
+	>
+	>* [HomeMirror](https://github.com/HannahMitt/HomeMirror)
+	>
+	>* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+	>
+	>* [cheesesquare](https://github.com/chrisbanes/cheesesquare)
+	>
+	>* [plaid](https://github.com/nickbutcher/plaid)
+	>
+	>* [stetho](https://github.com/facebook/stetho)
+	>
+	>* [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+	>
+	>* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+	>
+	>* [Material-Animations](https://github.com/lgvalle/Material-Animations)
+	
+
+7. 代码片段
+
+	>[代码片段，代码分享，PHP代码分享，Java代码分享,Ruby代码分享，Python代码分享，HTML代码分享，CSS代码分享，SQL代码分享，JavaScript代码分享](http://www.phpxs.com/code)
+	>
+	>[Java 代码片段分享](http://gold.xitu.io/entry/5674c81300b01b78b5471d3e/view)
+
 ###Android 自定义控件(View)篇
 ---
 
@@ -164,53 +213,3 @@
 3. [A surgical debugging tool to uncover the layers under your app.](https://github.com/JakeWharton/scalpel)
 
 	>Scalpel: Jake大神的第三把刀 
-
-
-###巨人的肩膀
----
-1. GitHub上的各大开源库的收录和分析
-
-	>[Trinea/android-open-project · GitHub](https://github.com/Trinea/android-open-project)
-
-2. AndroidOpenSourceProject
-
-	>[Android Open Source Project dedicated to collect high-quality Android open source project.](http://www.androidopensourceproject.com/)
-
-3. AndroidLibs
-
-	>[收集Android开发中优秀的开源组件库](https://github.com/XXApple/AndroidLibs)
-
-4. awesome-android
-
-	>[android libs from github](https://github.com/snowdream/awesome-android)
-
-5. [Code4App](http://a.code4app.com/category)
-
-6. [2015年十大热门Android开源新项目](http://www.jianshu.com/p/aa7238cd8daf)
-
-	>* [fresco](https://github.com/facebook/fresco)
-	>
-	>* [leakcanary](https://github.com/square/leakcanary)
-	>
-	>* [HomeMirror](https://github.com/HannahMitt/HomeMirror)
-	>
-	>* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
-	>
-	>* [cheesesquare](https://github.com/chrisbanes/cheesesquare)
-	>
-	>* [plaid](https://github.com/nickbutcher/plaid)
-	>
-	>* [stetho](https://github.com/facebook/stetho)
-	>
-	>* [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
-	>
-	>* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
-	>
-	>* [Material-Animations](https://github.com/lgvalle/Material-Animations)
-	
-
-7. 代码片段
-
-	>[代码片段，代码分享，PHP代码分享，Java代码分享,Ruby代码分享，Python代码分享，HTML代码分享，CSS代码分享，SQL代码分享，JavaScript代码分享](http://www.phpxs.com/code)
-	>
-	>[Java 代码片段分享](http://gold.xitu.io/entry/5674c81300b01b78b5471d3e/view)
