@@ -43,6 +43,8 @@
 	>* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 	>* [记一次使用RxJava重构的经历](http://xhinliang.github.io/2015/12/21/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8RxJava%E9%87%8D%E6%9E%84%E7%9A%84%E7%BB%8F%E5%8E%86/)
 	>* [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
+	>* [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+	
 7. Retrofit
 
 	>[A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)

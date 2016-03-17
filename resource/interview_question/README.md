@@ -8,6 +8,9 @@
 
 3. [最近5年133个Java面试问题列表](http://www.importnew.com/17232.html)
 
+4. [十道海量数据处理面试题与十个方法大总结](http://blog.csdn.net/v_july_v/article/details/6279498)
+
+
 ##自我总结
 
 1. Activity启动过程

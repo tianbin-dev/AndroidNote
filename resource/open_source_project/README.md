@@ -48,6 +48,8 @@
 	>[代码片段，代码分享，PHP代码分享，Java代码分享,Ruby代码分享，Python代码分享，HTML代码分享，CSS代码分享，SQL代码分享，JavaScript代码分享](http://www.phpxs.com/code)
 	>
 	>[Java 代码片段分享](http://gold.xitu.io/entry/5674c81300b01b78b5471d3e/view)
+	
+8. [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
 
 ###Android 自定义控件(View)篇
 ---

@@ -1,7 +1,7 @@
 ##数据结构&算法&设计模式
 
 ###数据结构
----
+
 1. 浅谈算法和数据结构
 	
 	>[栈和队列](http://blog.jobbole.com/79267/)
@@ -29,7 +29,7 @@
 	>[无向图相关算法基础](http://blog.jobbole.com/79314/)
 	
 ###算法
----
+
 
 1. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
 2. [基于用户投票的排名算法（一）：Delicious和Hacker News](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
@@ -39,9 +39,10 @@
 6. [基于用户投票的排名算法（五）：威尔逊区间](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_wilson_score_interval.html)
 7. [基于用户投票的排名算法（六）：贝叶斯平均](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_bayesian_average.html)
 8. [SegmentFault 热门内容优化](http://segmentfault.com/a/1190000004253816)
+9. [程序员必须知道的10大基础实用算法及其讲解](https://www.sdk.cn/news/2321)
 
 ###设计模式
----
+
 
 1. [Android 中的建造者模式](http://www.jianshu.com/p/a0435bbc8681)
 2. [谈谈面向对象设计(OOD)原则](http://www.jianshu.com/p/e378025920f8)
