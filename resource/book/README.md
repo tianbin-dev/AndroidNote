@@ -5,3 +5,4 @@
 * [2015，我读过的那些书](http://www.jianshu.com/p/319e8ba38d20)
 * [红衣教主行走江湖的12本武功秘籍](http://www.jianshu.com/p/7d99758ed39b)
 * [按产品经理能力划分，我们需要看哪些书](http://www.jianshu.com/p/786f5c85835c)
+* [Developer进阶书单](https://github.com/tb-yangshu/booktree)

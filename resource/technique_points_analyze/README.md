@@ -71,6 +71,7 @@
 6. [Java细节：字符串的拼接](http://droidyue.com/blog/2014/08/30/java-details-string-concatenation/)
 7. [GC专家系列1：理解Java垃圾回收](http://segmentfault.com/a/1190000004233812)
 8. [GC专家系列2：Java 垃圾回收的监控](http://segmentfault.com/a/1190000004255118)
+9. [为什么用 Java——一个来自 Python 阵营的程序员告诉你](https://www.sdk.cn/news/2492)
 
 ###Http
 
