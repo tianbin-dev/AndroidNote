@@ -1,3 +1,6 @@
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=tb-yangshu.AndroidNote)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=tb-yangshu.AndroidNote)
+
 收集一些awesome的编程资源~
 
 **技术**
