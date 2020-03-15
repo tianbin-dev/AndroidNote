@@ -3,6 +3,8 @@
 
 收集一些awesome的编程资源~
 
+[本人开发的一个汇总开发中常用网站及工具的站点](http://res.tder.xyz/)
+
 **技术**
 * [开源项目](https://github.com/tb-yangshu/CodingResource/wiki/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 * [性能优化](https://github.com/tb-yangshu/CodingResource/wiki/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
